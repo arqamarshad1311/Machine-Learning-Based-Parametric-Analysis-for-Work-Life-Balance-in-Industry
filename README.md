@@ -1,2 +1,2 @@
-# Machine-learning-based-parametric-analysis-for-work-life-balance-
+# Machine Learning Based Parametric Analysis for Work-Life Balance in Industry
 This project proposes a Machine Learning Based Parametric Analysis system for Work-Life Balance in industry. It predicts how working hours, commute, workload, sleep, and family time affect employee well-being. The system enables early risk detection, reduces burnout and attrition, and supports data-driven HR policy and wellness planning.
