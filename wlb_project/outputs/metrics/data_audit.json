@@ -1,0 +1,38 @@
+{
+  "n_rows": 10000,
+  "n_cols": 16,
+  "schema_ok": true,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "duplicate_ids": 0,
+  "target_distribution": {
+    "Low Risk": 0.4,
+    "Medium Risk": 0.35,
+    "High Risk": 0.25
+  },
+  "work_hours_gt_14": 222,
+  "work_hours_eq_24": 29,
+  "work_hours_eq_0": 37,
+  "time_budget_gt_24": 960,
+  "ordinal_corr_with_risk": {
+    "age": 0.01,
+    "avg_work_hours_per_day": 0.65,
+    "avg_rest_hours_per_day": -0.52,
+    "avg_sleep_hours_per_day": -0.37,
+    "avg_exercise_hours_per_day": -0.17,
+    "commute_time_mins": 0.21,
+    "family_time_hours": -0.51,
+    "social_time_hours": -0.37,
+    "stress_level": 0.79,
+    "job_satisfaction": -0.75,
+    "mental_health_score": -0.8,
+    "physical_health_score": -0.42
+  },
+  "tests": {
+    "Schema and data-type check": "Pass",
+    "Missing-value check": "Pass",
+    "Duplicate check": "Pass",
+    "Range/plausibility check": "Fail (flagged)",
+    "Daily time-budget consistency": "Fail (flagged)"
+  }
+}

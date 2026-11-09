@@ -1,0 +1,4 @@
+segment,avg_work_hours_per_day,avg_rest_hours_per_day,avg_sleep_hours_per_day,avg_exercise_hours_per_day,commute_time_mins,family_time_hours,social_time_hours
+0,6.9,9.26,6.73,0.54,29.61,3.99,1.68
+1,9.16,6.54,7.05,0.62,36.9,2.76,1.1
+2,11.44,3.69,7.14,0.85,41.85,1.47,0.62

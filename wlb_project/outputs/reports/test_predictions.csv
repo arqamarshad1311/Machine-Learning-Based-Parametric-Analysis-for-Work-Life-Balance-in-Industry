@@ -1,0 +1,1992 @@
+employee_id,predicted_risk,p_low,p_medium,p_high,top_risk_drivers
+14159,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.28; avg exercise hours per day = 0.12
+11562,High Risk,0.0,0.0,1.0,avg work hours per day = 12.15; stress level = 7; mental health score = 4
+12796,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.94; commute time mins = 61; family time hours = 1.35
+10027,Low Risk,1.0,0.0,0.0,family time hours = 1.9; avg rest hours per day = 4.76
+16195,Low Risk,1.0,0.0,0.0,family time hours = 1.86; commute time mins = 48; social time hours = 0.82
+14468,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.16; commute time mins = 63
+14185,High Risk,0.0,0.0,1.0,avg work hours per day = 12.51; job satisfaction = 5; stress level = 6
+13745,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 67; avg sleep hours per day = 6.47
+16661,Low Risk,1.0,0.0,0.0,commute time mins = 62; avg exercise hours per day = 0.2
+18088,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.31; family time hours = 2.08
+12967,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; avg sleep hours per day = 5.86
+19694,Low Risk,1.0,0.0,0.0,commute time mins = 62
+19597,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.35; family time hours = 0.6; social time hours = 0.22
+17721,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.52
+17128,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.48; family time hours = 1.47; social time hours = 0.73
+12153,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 6; mental health score = 6
+19585,Low Risk,1.0,0.0,0.0,commute time mins = 50; family time hours = 2.11
+10645,Medium Risk,0.0,0.772,0.228,mental health score = 5; avg work hours per day = 10.59; job satisfaction = 6
+14830,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.22; commute time mins = 68; family time hours = 0.92
+18498,High Risk,0.0,0.004,0.996,avg work hours per day = 12.24; physical health score = 4; family time hours = 1.86
+10060,Medium Risk,0.0,1.0,0.0,commute time mins = 58; social time hours = 0.82
+11536,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.23; commute time mins = 61
+12009,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.84; avg exercise hours per day = 0.32
+15024,Medium Risk,0.0,0.982,0.018,avg sleep hours per day = 5.84; job satisfaction = 6; commute time mins = 54
+15042,High Risk,0.0,0.0,1.0,avg work hours per day = 11.72; stress level = 6; job satisfaction = 6
+15418,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.34
+11334,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.23; stress level = 6
+12915,Low Risk,1.0,0.0,0.0,social time hours = 0.83; avg exercise hours per day = 0.1
+13619,Medium Risk,0.004,0.996,0.0,job satisfaction = 6
+19131,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; job satisfaction = 6
+10956,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; physical health score = 5
+11410,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 51
+13414,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 4; avg sleep hours per day = 5.78
+14767,Low Risk,1.0,0.0,0.0,no single dominant driver
+14459,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.23
+19607,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+15331,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.05; mental health score = 4
+15661,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.3
+11678,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0.28
+10403,Medium Risk,0.0,1.0,0.0,no single dominant driver
+16673,Medium Risk,0.0,0.999,0.001,stress level = 7; mental health score = 5; avg sleep hours per day = 6.42
+19275,Low Risk,1.0,0.0,0.0,commute time mins = 70; physical health score = 5; avg exercise hours per day = 0.29
+16978,Low Risk,1.0,0.0,0.0,no single dominant driver
+16169,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.09
+17388,Low Risk,1.0,0.0,0.0,commute time mins = 69; social time hours = 0.59; avg rest hours per day = 5.11
+14370,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.43; avg exercise hours per day = 0.3
+17224,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.38; family time hours = 0.77; commute time mins = 59
+18590,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.5
+15682,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.86; job satisfaction = 6; mental health score = 6
+15639,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.18; family time hours = 0.18; social time hours = 0.13
+14721,Low Risk,1.0,0.0,0.0,no single dominant driver
+18056,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.91; commute time mins = 61
+12255,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; physical health score = 5
+17609,High Risk,0.0,0.0,1.0,avg work hours per day = 13.65; stress level = 9; job satisfaction = 5
+13404,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.18; stress level = 6
+12365,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.85; avg sleep hours per day = 6.56
+11218,High Risk,0.0,0.0,1.0,avg sleep hours per day = 5.05; stress level = 6; job satisfaction = 6
+10780,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; mental health score = 5
+17587,Medium Risk,0.012,0.988,0.0,no single dominant driver
+14883,Low Risk,1.0,0.0,0.0,no single dominant driver
+19434,Low Risk,1.0,0.0,0.0,no single dominant driver
+10423,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 10.85; job satisfaction = 6
+19889,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.19
+11619,Low Risk,1.0,0.0,0.0,commute time mins = 52; social time hours = 0.71
+18587,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.52; avg exercise hours per day = 0.34
+14727,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 8; avg work hours per day = 11.43
+14612,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.14
+15749,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; avg exercise hours per day = 0.21
+19306,Low Risk,1.0,0.0,0.0,no single dominant driver
+13254,Medium Risk,0.0,1.0,0.0,stress level = 7; mental health score = 5; social time hours = 0.78
+14192,High Risk,0.0,0.0,1.0,avg work hours per day = 12.94; stress level = 6; job satisfaction = 6
+12872,Low Risk,1.0,0.0,0.0,social time hours = 0.62; avg exercise hours per day = 0.07
+17753,Low Risk,1.0,0.0,0.0,no single dominant driver
+17378,Medium Risk,0.0,1.0,0.0,commute time mins = 58; family time hours = 2; social time hours = 0.61
+18075,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.41; physical health score = 5
+10462,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11; stress level = 6
+15650,Medium Risk,0.0,1.0,0.0,mental health score = 6; physical health score = 4; social time hours = 0.78
+17729,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.19
+12531,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg work hours per day = 10.85
+19012,Low Risk,1.0,0.0,0.0,no single dominant driver
+17187,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 12.93; stress level = 8
+18191,High Risk,0.0,0.0,1.0,avg work hours per day = 12.6; job satisfaction = 6; mental health score = 6
+19054,Medium Risk,0.0,1.0,0.0,commute time mins = 73; physical health score = 5; avg exercise hours per day = 0.22
+17230,Low Risk,1.0,0.0,0.0,family time hours = 1.28; social time hours = 0.53; avg rest hours per day = 3.2
+11746,Medium Risk,0.003,0.997,0.0,avg rest hours per day = 4.5
+11359,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 10.58; job satisfaction = 6
+11329,Medium Risk,0.0,1.0,0.0,commute time mins = 59; physical health score = 5; family time hours = 1.62
+19260,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.34
+14564,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.96; mental health score = 6
+18314,Low Risk,1.0,0.0,0.0,commute time mins = 57; family time hours = 1.99
+10443,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.77; commute time mins = 55
+19299,High Risk,0.0,0.0,1.0,avg work hours per day = 12.71; stress level = 7; avg sleep hours per day = 6.23
+14329,Low Risk,1.0,0.0,0.0,social time hours = 0.85; avg exercise hours per day = 0.03
+11880,High Risk,0.0,0.0,1.0,job satisfaction = 5; commute time mins = 99; stress level = 6
+11204,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.3; mental health score = 6; avg exercise hours per day = 0.26
+16525,Low Risk,1.0,0.0,0.0,commute time mins = 73
+15574,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.51; social time hours = 0.84
+19512,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 4; avg sleep hours per day = 5.24
+17973,Low Risk,1.0,0.0,0.0,no single dominant driver
+15517,Medium Risk,0.0,1.0,0.0,commute time mins = 52; social time hours = 0.84; avg exercise hours per day = 0.34
+18423,Low Risk,1.0,0.0,0.0,commute time mins = 79
+14490,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.57; avg exercise hours per day = 0.14
+13857,Low Risk,1.0,0.0,0.0,no single dominant driver
+11940,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; avg work hours per day = 11.43
+12846,High Risk,0.0,0.0,1.0,avg work hours per day = 12.57; stress level = 8; mental health score = 5
+17624,Medium Risk,0.0,1.0,0.0,commute time mins = 61; physical health score = 5; family time hours = 1.63
+18455,Medium Risk,0.0,1.0,0.0,commute time mins = 50; social time hours = 0.53
+16048,Low Risk,1.0,0.0,0.0,commute time mins = 56
+18420,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.54
+14756,Low Risk,1.0,0.0,0.0,commute time mins = 64
+13861,Low Risk,1.0,0.0,0.0,no single dominant driver
+13920,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; physical health score = 4
+12298,Low Risk,1.0,0.0,0.0,no single dominant driver
+13141,Medium Risk,0.0,1.0,0.0,family time hours = 1.5; social time hours = 0.55; avg rest hours per day = 4.38
+19983,Low Risk,1.0,0.0,0.0,no single dominant driver
+15525,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.25
+12974,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.97; physical health score = 4; commute time mins = 54
+15373,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; commute time mins = 47; avg exercise hours per day = 0.03
+11362,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 63; physical health score = 5
+18573,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.71; family time hours = 0.89; social time hours = 0.56
+16926,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.15
+10360,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.37; avg sleep hours per day = 6.13; commute time mins = 64
+19913,Medium Risk,0.013,0.987,0.0,avg exercise hours per day = 0.31
+15903,Low Risk,1.0,0.0,0.0,no single dominant driver
+19477,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg sleep hours per day = 6.22
+10828,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg sleep hours per day = 5.45
+17510,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.04
+16792,High Risk,0.0,0.0,1.0,avg work hours per day = 12.83; stress level = 8; job satisfaction = 4
+18946,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 6; mental health score = 6
+19676,Medium Risk,0.0,1.0,0.0,commute time mins = 88; physical health score = 5
+19339,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.31; job satisfaction = 6; commute time mins = 71
+12972,Low Risk,1.0,0.0,0.0,no single dominant driver
+17328,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.75; family time hours = 1.99; social time hours = 0.71
+14996,Medium Risk,0.364,0.636,0.0,commute time mins = 47
+19415,Low Risk,1.0,0.0,0.0,no single dominant driver
+19000,High Risk,0.0,0.0,1.0,avg work hours per day = 13.3; job satisfaction = 4; mental health score = 6
+12968,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; commute time mins = 47; avg exercise hours per day = 0.07
+18594,High Risk,0.0,0.0,1.0,avg work hours per day = 12.7; job satisfaction = 4; avg sleep hours per day = 5.16
+12926,Low Risk,1.0,0.0,0.0,social time hours = 0.69
+16784,Medium Risk,0.054,0.946,0.0,avg work hours per day = 10.44; commute time mins = 58; avg rest hours per day = 4.81
+10526,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.11
+16141,Medium Risk,0.0,1.0,0.0,social time hours = 0.51; avg exercise hours per day = 0.12
+18576,Low Risk,1.0,0.0,0.0,avg rest hours per day = 5.24
+17887,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.2; avg rest hours per day = 5.24
+19395,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; family time hours = 1.81
+19505,Low Risk,1.0,0.0,0.0,family time hours = 1.45; avg rest hours per day = 4.36
+13749,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.46
+12619,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.12; stress level = 6
+12191,Low Risk,1.0,0.0,0.0,family time hours = 1.82
+18250,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.92; family time hours = 1.68; avg exercise hours per day = 0.14
+17166,High Risk,0.0,0.0,1.0,avg work hours per day = 10.93; mental health score = 5; family time hours = 1.07
+16346,Low Risk,1.0,0.0,0.0,social time hours = 0.6
+17926,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 6
+19748,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+11618,Medium Risk,0.0,1.0,0.0,commute time mins = 58; avg exercise hours per day = 0.29
+17280,Low Risk,1.0,0.0,0.0,no single dominant driver
+18966,Medium Risk,0.436,0.564,0.0,social time hours = 0.83; avg exercise hours per day = 0.05
+12842,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.4
+13710,Low Risk,1.0,0.0,0.0,commute time mins = 73; family time hours = 2.06; avg rest hours per day = 5.21
+17036,Low Risk,1.0,0.0,0.0,no single dominant driver
+11820,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.27; family time hours = 1.98; avg rest hours per day = 5.08
+14576,High Risk,0.0,0.0,1.0,job satisfaction = 5; commute time mins = 105; stress level = 6
+10949,High Risk,0.0,0.029,0.971,stress level = 6; avg sleep hours per day = 6.01; commute time mins = 67
+13493,Low Risk,1.0,0.0,0.0,no single dominant driver
+11898,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.63; family time hours = 1.15; avg rest hours per day = 3.37
+11206,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.5; commute time mins = 61; family time hours = 1.63
+10706,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 60; family time hours = 2.12
+19521,Low Risk,1.0,0.0,0.0,commute time mins = 74
+12819,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.92; avg sleep hours per day = 6.19; physical health score = 4
+18049,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.96; avg exercise hours per day = 0.19
+16665,High Risk,0.0,0.0,1.0,mental health score = 3; avg work hours per day = 11.7; job satisfaction = 5
+15750,Low Risk,1.0,0.0,0.0,commute time mins = 66; social time hours = 0.74; avg exercise hours per day = 0.05
+12140,High Risk,0.0,0.0,1.0,avg work hours per day = 12.87; stress level = 7; job satisfaction = 5
+15798,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.15
+13295,Low Risk,1.0,0.0,0.0,no single dominant driver
+18434,Medium Risk,0.001,0.999,0.0,commute time mins = 48; social time hours = 0.51; avg rest hours per day = 4.66
+11523,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.23; physical health score = 5; family time hours = 2.1
+19529,High Risk,0.0,0.007,0.993,job satisfaction = 5; stress level = 6; avg work hours per day = 10.34
+17450,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+13491,Low Risk,1.0,0.0,0.0,commute time mins = 75
+17889,Low Risk,1.0,0.0,0.0,family time hours = 1.51; social time hours = 0.86; avg rest hours per day = 4.27
+19103,Medium Risk,0.0,0.82,0.18,stress level = 6; job satisfaction = 6; commute time mins = 58
+14271,High Risk,0.0,0.0,1.0,avg work hours per day = 12.55; job satisfaction = 5; avg sleep hours per day = 5.53
+17337,High Risk,0.0,0.042,0.958,avg work hours per day = 11.21; stress level = 6; job satisfaction = 6
+11826,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 11.06
+17900,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.94; family time hours = 1.62
+14466,High Risk,0.0,0.0,1.0,job satisfaction = 6; avg work hours per day = 10.28; commute time mins = 62
+10320,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.82; avg exercise hours per day = 0.12
+13770,High Risk,0.0,0.0,1.0,avg work hours per day = 13.8; job satisfaction = 5; stress level = 6
+17512,High Risk,0.0,0.0,1.0,avg work hours per day = 13.12; stress level = 7; mental health score = 5
+19136,Low Risk,1.0,0.0,0.0,no single dominant driver
+12795,Low Risk,1.0,0.0,0.0,commute time mins = 58; social time hours = 0.53
+10337,Medium Risk,0.0,0.998,0.002,stress level = 6; avg work hours per day = 10.41; job satisfaction = 6
+13385,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 3; stress level = 9
+16452,High Risk,0.0,0.0,1.0,stress level = 6; job satisfaction = 6; commute time mins = 55
+19653,Low Risk,1.0,0.0,0.0,social time hours = 0.72; avg exercise hours per day = 0.05
+16058,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.81; social time hours = 0.43; avg rest hours per day = 5.05
+19747,High Risk,0.0,0.0,1.0,avg work hours per day = 12.48; avg sleep hours per day = 5.81; job satisfaction = 6
+18349,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 50; avg exercise hours per day = 0.26
+13791,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.56; job satisfaction = 6; commute time mins = 71
+12129,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.29; family time hours = 1.44; social time hours = 0.53
+15709,Low Risk,1.0,0.0,0.0,commute time mins = 50
+17528,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.77; avg work hours per day = 10.23
+16002,High Risk,0.0,0.0,1.0,avg work hours per day = 12.01; stress level = 6; mental health score = 5
+18934,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 14
+10576,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.1; family time hours = 0.88; commute time mins = 61
+13069,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 3; mental health score = 2
+14518,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+14454,Low Risk,0.998,0.002,0.0,commute time mins = 49; social time hours = 0.72; avg exercise hours per day = 0.08
+11189,Low Risk,1.0,0.0,0.0,commute time mins = 51
+15626,Low Risk,1.0,0.0,0.0,commute time mins = 62
+10554,Low Risk,1.0,0.0,0.0,no single dominant driver
+10902,Low Risk,1.0,0.0,0.0,commute time mins = 67; avg sleep hours per day = 6.35; family time hours = 2.18
+15336,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.15; physical health score = 5
+14972,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.58
+10654,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 55; physical health score = 5
+18160,Low Risk,1.0,0.0,0.0,no single dominant driver
+18914,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.23; social time hours = 0.71; avg rest hours per day = 4.78
+12688,Low Risk,1.0,0.0,0.0,no single dominant driver
+12634,Low Risk,1.0,0.0,0.0,no single dominant driver
+12526,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.04
+16215,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.91; mental health score = 5
+12075,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 69
+13372,High Risk,0.0,0.0,1.0,job satisfaction = 2; avg work hours per day = 14; mental health score = 1
+16593,Medium Risk,0.0,1.0,0.0,stress level = 6; avg exercise hours per day = 0.28
+11602,High Risk,0.0,0.0,1.0,avg work hours per day = 11.63; job satisfaction = 5; commute time mins = 57
+15062,Low Risk,1.0,0.0,0.0,no single dominant driver
+16520,Low Risk,1.0,0.0,0.0,no single dominant driver
+16626,High Risk,0.0,0.368,0.632,mental health score = 5; avg work hours per day = 10.37; job satisfaction = 6
+12790,Medium Risk,0.0,1.0,0.0,stress level = 6; family time hours = 2; social time hours = 0.79
+11589,Medium Risk,0.0,1.0,0.0,mental health score = 6; avg exercise hours per day = 0.24
+10252,Medium Risk,0.0,1.0,0.0,social time hours = 0.63
+16170,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.46; physical health score = 5; avg exercise hours per day = 0.27
+12585,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.54; avg sleep hours per day = 6.02; commute time mins = 56
+15448,Low Risk,1.0,0.0,0.0,commute time mins = 50; avg exercise hours per day = 0.03
+11177,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.29
+17482,Low Risk,1.0,0.0,0.0,no single dominant driver
+14955,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.05; avg sleep hours per day = 6.37; avg exercise hours per day = 0
+12002,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.08; family time hours = 0.65; social time hours = 0.3
+19940,High Risk,0.0,0.0,1.0,avg work hours per day = 11.68; mental health score = 5; job satisfaction = 6
+18357,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.85; physical health score = 5
+14314,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.07
+18238,High Risk,0.0,0.0,1.0,avg work hours per day = 12.35; stress level = 6; family time hours = 0.4
+12930,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.85; family time hours = 1.65; social time hours = 0.6
+11700,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.2; physical health score = 5; family time hours = 1.87
+15365,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 5; stress level = 6
+19252,Low Risk,1.0,0.0,0.0,commute time mins = 51; avg exercise hours per day = 0.25
+19580,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.17; physical health score = 5; avg exercise hours per day = 0.13
+17198,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 5.63; avg exercise hours per day = 0
+14489,Low Risk,1.0,0.0,0.0,no single dominant driver
+16601,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; mental health score = 4
+12202,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+16822,High Risk,0.0,0.0,1.0,stress level = 8; avg sleep hours per day = 4.57; job satisfaction = 5
+14087,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.02
+10859,Medium Risk,0.0,1.0,0.0,mental health score = 6; physical health score = 4; avg exercise hours per day = 0.04
+14342,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 14
+10374,High Risk,0.0,0.0,1.0,avg work hours per day = 11.32; job satisfaction = 6; family time hours = 1.4
+13721,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.06
+11292,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.79; job satisfaction = 6; commute time mins = 52
+15084,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.17
+19606,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.05
+16768,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.23; mental health score = 5; family time hours = 1.99
+18763,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.69
+16137,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.05
+13195,Low Risk,0.985,0.015,0.0,social time hours = 0.64
+13911,High Risk,0.0,0.0,1.0,avg work hours per day = 11.81; job satisfaction = 5; family time hours = 1.46
+16260,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.12; commute time mins = 53
+19728,Medium Risk,0.0,1.0,0.0,mental health score = 5; avg work hours per day = 10.56; job satisfaction = 6
+12231,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.27; family time hours = 1.75; social time hours = 0.56
+19267,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+15310,Low Risk,1.0,0.0,0.0,no single dominant driver
+10391,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.86; job satisfaction = 6; avg exercise hours per day = 0.18
+16889,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.22
+15281,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.33; commute time mins = 48; family time hours = 2.18
+18737,Low Risk,1.0,0.0,0.0,no single dominant driver
+14167,Low Risk,1.0,0.0,0.0,no single dominant driver
+14905,Low Risk,1.0,0.0,0.0,commute time mins = 55; physical health score = 5
+16639,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; avg exercise hours per day = 0.04
+10356,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.29; family time hours = 0.73; social time hours = 0.3
+13227,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg sleep hours per day = 6.17
+12532,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; stress level = 6
+13547,Medium Risk,0.001,0.999,0.0,social time hours = 0.71; avg exercise hours per day = 0.16
+11091,Medium Risk,0.0,0.999,0.001,mental health score = 5; job satisfaction = 6; commute time mins = 59
+13572,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.26
+18406,Low Risk,1.0,0.0,0.0,commute time mins = 68; social time hours = 0.81; avg exercise hours per day = 0.2
+15575,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.01; mental health score = 6; physical health score = 5
+13062,Medium Risk,0.0,1.0,0.0,physical health score = 5; avg exercise hours per day = 0.33
+11196,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 5.96; commute time mins = 65
+13900,Low Risk,1.0,0.0,0.0,family time hours = 2.2; social time hours = 0.78; avg rest hours per day = 5.06
+14831,Low Risk,1.0,0.0,0.0,commute time mins = 47; social time hours = 0.45; avg rest hours per day = 5.4
+18719,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.43; job satisfaction = 6; family time hours = 1.64
+14488,High Risk,0.0,0.0,1.0,avg work hours per day = 11.81; stress level = 7; avg sleep hours per day = 6.19
+17360,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; commute time mins = 52
+19560,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 5.64; job satisfaction = 6
+13762,High Risk,0.0,0.0,1.0,avg work hours per day = 11.8; stress level = 6; avg sleep hours per day = 5.62
+14474,Medium Risk,0.0,1.0,0.0,commute time mins = 51; family time hours = 2.12; avg exercise hours per day = 0.1
+17114,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.33
+13471,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 50; social time hours = 0.8
+19405,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; physical health score = 5
+14223,Low Risk,1.0,0.0,0.0,social time hours = 0.57; avg rest hours per day = 4.65
+18386,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.76; family time hours = 2.17; avg exercise hours per day = 0.18
+14762,Low Risk,1.0,0.0,0.0,social time hours = 0.82
+11193,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; social time hours = 0.56
+15003,Medium Risk,0.0,1.0,0.0,no single dominant driver
+17869,High Risk,0.0,0.0,1.0,avg work hours per day = 12.62; job satisfaction = 5; mental health score = 6
+16692,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 14
+12776,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.07; avg exercise hours per day = 0.15
+15083,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 11.78; stress level = 7
+13659,Low Risk,1.0,0.0,0.0,commute time mins = 100
+11741,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.56; avg exercise hours per day = 0.12
+15971,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; avg sleep hours per day = 6.54
+16116,High Risk,0.0,0.0,1.0,avg work hours per day = 12; job satisfaction = 5; stress level = 6
+15387,High Risk,0.0,0.0,1.0,avg work hours per day = 11.81; stress level = 7; commute time mins = 78
+14256,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; avg work hours per day = 10.38
+19554,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; mental health score = 5
+18190,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.46; family time hours = 2.1; social time hours = 0.48
+12204,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 14
+16528,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+13057,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.26; avg exercise hours per day = 0.25
+12081,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; avg work hours per day = 10.39
+14840,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.39
+18563,Low Risk,1.0,0.0,0.0,no single dominant driver
+19107,Medium Risk,0.0,1.0,0.0,commute time mins = 64; family time hours = 1.47; social time hours = 0.34
+13038,Medium Risk,0.0,1.0,0.0,commute time mins = 66; family time hours = 2.16; avg rest hours per day = 5.36
+13761,High Risk,0.0,0.0,1.0,avg work hours per day = 11.41; mental health score = 4; stress level = 6
+16856,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 8; avg work hours per day = 12.43
+13644,Medium Risk,0.001,0.999,0.0,commute time mins = 51; family time hours = 2.1
+12890,High Risk,0.0,0.0,1.0,avg work hours per day = 12.37; stress level = 6; job satisfaction = 6
+11640,Medium Risk,0.0,1.0,0.0,no single dominant driver
+14175,Low Risk,1.0,0.0,0.0,no single dominant driver
+18124,Low Risk,1.0,0.0,0.0,commute time mins = 59
+14124,Low Risk,1.0,0.0,0.0,family time hours = 2.12; social time hours = 0.55; avg exercise hours per day = 0.06
+14402,Low Risk,1.0,0.0,0.0,commute time mins = 61; avg exercise hours per day = 0.03
+12901,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.4; social time hours = 0.68
+11241,Low Risk,1.0,0.0,0.0,physical health score = 4; avg sleep hours per day = 6.51
+16699,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.2
+15010,High Risk,0.0,0.054,0.946,avg work hours per day = 11.12; job satisfaction = 6; physical health score = 4
+16480,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; stress level = 6; mental health score = 5
+16841,Low Risk,1.0,0.0,0.0,commute time mins = 47
+18284,High Risk,0.0,0.0,1.0,avg work hours per day = 12.08; mental health score = 4; stress level = 6
+13199,Low Risk,1.0,0.0,0.0,no single dominant driver
+10348,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg work hours per day = 11.56
+14906,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.42; avg exercise hours per day = 0.3
+16479,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; stress level = 6
+16735,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 5.95
+19842,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 6.19; social time hours = 0.8
+14231,Low Risk,1.0,0.0,0.0,no single dominant driver
+14922,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.25; physical health score = 5
+12368,Low Risk,0.966,0.034,0.0,commute time mins = 47; avg exercise hours per day = 0
+17822,Medium Risk,0.0,1.0,0.0,family time hours = 1.51; social time hours = 0.56; avg rest hours per day = 4.56
+14816,High Risk,0.0,0.0,1.0,job satisfaction = 6; avg sleep hours per day = 6.22; physical health score = 4
+11024,Low Risk,1.0,0.0,0.0,family time hours = 2.19
+15833,Low Risk,1.0,0.0,0.0,social time hours = 0.58
+16621,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.2; physical health score = 5; avg rest hours per day = 5.35
+11488,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.3; avg exercise hours per day = 0.31
+13747,High Risk,0.0,0.014,0.986,stress level = 7; avg work hours per day = 11.02; job satisfaction = 6
+12934,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.05
+16616,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.96
+10929,High Risk,0.0,0.0,1.0,avg work hours per day = 13.29; job satisfaction = 5; family time hours = 1.19
+10800,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+18373,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; avg work hours per day = 12.2
+19367,High Risk,0.0,0.0,1.0,avg work hours per day = 12.14; mental health score = 6; commute time mins = 65
+17403,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.07
+18668,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.53; family time hours = 1.99
+17882,Medium Risk,0.203,0.797,0.0,physical health score = 5; avg sleep hours per day = 6.55
+17547,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.7; commute time mins = 58; social time hours = 0.76
+15487,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.35; family time hours = 0.91; social time hours = 0.41
+18799,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+18272,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.4; physical health score = 5
+14701,Medium Risk,0.0,1.0,0.0,mental health score = 6; avg exercise hours per day = 0.02
+10614,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 54
+13451,High Risk,0.0,0.0,1.0,avg work hours per day = 12.11; job satisfaction = 5; stress level = 6
+12932,Medium Risk,0.0,1.0,0.0,mental health score = 6; commute time mins = 49; social time hours = 0.63
+10939,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.56; avg sleep hours per day = 6.27
+16249,High Risk,0.0,0.0,1.0,avg sleep hours per day = 4.52; job satisfaction = 5; stress level = 6
+13503,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.38; job satisfaction = 6; physical health score = 5
+11175,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; mental health score = 5
+11521,High Risk,0.0,0.0,1.0,avg work hours per day = 13.44; stress level = 6; job satisfaction = 6
+15372,Low Risk,1.0,0.0,0.0,physical health score = 5; avg rest hours per day = 5.07
+14006,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.32; social time hours = 0.7; avg exercise hours per day = 0.23
+18939,High Risk,0.0,0.381,0.619,avg work hours per day = 10.76; job satisfaction = 6; mental health score = 6
+11648,Low Risk,1.0,0.0,0.0,no single dominant driver
+14064,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 59
+11486,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; job satisfaction = 6
+10709,High Risk,0.0,0.0,1.0,avg work hours per day = 11.62; stress level = 6; mental health score = 5
+19454,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 6; avg sleep hours per day = 6.2
+12530,Medium Risk,0.0,1.0,0.0,commute time mins = 69; avg exercise hours per day = 0.08
+14122,Low Risk,1.0,0.0,0.0,no single dominant driver
+15139,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; avg sleep hours per day = 6.27
+16874,Low Risk,1.0,0.0,0.0,family time hours = 2.2; avg exercise hours per day = 0
+12274,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.07
+12734,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.28; family time hours = 0.65; avg sleep hours per day = 6.32
+16575,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.58; commute time mins = 47; avg exercise hours per day = 0.21
+12782,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.1
+15716,Low Risk,1.0,0.0,0.0,job satisfaction = 6; commute time mins = 54; avg exercise hours per day = 0.29
+17451,Low Risk,1.0,0.0,0.0,commute time mins = 47
+15215,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.01
+14673,High Risk,0.0,0.0,1.0,avg work hours per day = 12.42; stress level = 7; job satisfaction = 6
+14349,Low Risk,1.0,0.0,0.0,no single dominant driver
+16296,High Risk,0.0,0.0,1.0,avg work hours per day = 11.08; stress level = 6; job satisfaction = 6
+13980,High Risk,0.0,0.008,0.992,stress level = 6; mental health score = 5; social time hours = 0.75
+16676,Low Risk,1.0,0.0,0.0,commute time mins = 67; social time hours = 0.86
+14565,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+19057,Medium Risk,0.0,1.0,0.0,stress level = 7; job satisfaction = 6; mental health score = 6
+15899,Low Risk,1.0,0.0,0.0,family time hours = 1.89; avg exercise hours per day = 0.24
+19059,Medium Risk,0.319,0.681,0.0,commute time mins = 79; family time hours = 1.61; social time hours = 0.5
+18923,Low Risk,1.0,0.0,0.0,commute time mins = 54; avg exercise hours per day = 0.18
+11596,High Risk,0.0,0.0,1.0,avg work hours per day = 11.26; job satisfaction = 6; commute time mins = 68
+11004,High Risk,0.0,0.0,1.0,avg work hours per day = 11.81; mental health score = 3; stress level = 7
+13973,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.11
+14648,Low Risk,1.0,0.0,0.0,no single dominant driver
+18034,High Risk,0.0,0.0,1.0,avg work hours per day = 11.7; stress level = 7; mental health score = 5
+11213,Low Risk,1.0,0.0,0.0,commute time mins = 68
+17720,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.28
+17546,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; physical health score = 4; social time hours = 0.73
+14555,High Risk,0.0,0.0,1.0,stress level = 7; commute time mins = 78; job satisfaction = 6
+16655,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.7; avg sleep hours per day = 6.3; avg rest hours per day = 5.23
+10827,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg sleep hours per day = 5.12; stress level = 6
+16402,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.81; avg exercise hours per day = 0.13
+10079,High Risk,0.0,0.0,1.0,avg work hours per day = 11.94; stress level = 6; mental health score = 5
+12472,Medium Risk,0.024,0.976,0.0,commute time mins = 56; family time hours = 2.02; avg rest hours per day = 5.34
+13331,Low Risk,1.0,0.0,0.0,avg work hours per day = 11.77; family time hours = 0; social time hours = 0.04
+19977,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.59; job satisfaction = 6; family time hours = 1.47
+16567,Low Risk,1.0,0.0,0.0,commute time mins = 79
+10492,Medium Risk,0.214,0.786,0.0,family time hours = 2.18; social time hours = 0.5
+19610,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.33; commute time mins = 63; family time hours = 1.34
+12270,Low Risk,1.0,0.0,0.0,commute time mins = 60; family time hours = 2.18; social time hours = 0.78
+15000,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.77; job satisfaction = 6; commute time mins = 54
+11759,Medium Risk,0.0,1.0,0.0,stress level = 6; avg exercise hours per day = 0.22
+15573,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.2
+18972,Low Risk,1.0,0.0,0.0,commute time mins = 70; social time hours = 0.74; avg exercise hours per day = 0.09
+16164,Medium Risk,0.0,1.0,0.0,job satisfaction = 4; stress level = 6; mental health score = 6
+11096,High Risk,0.0,0.241,0.759,avg work hours per day = 11.62; family time hours = 1.48; physical health score = 5
+19463,Low Risk,1.0,0.0,0.0,commute time mins = 53; family time hours = 1.71; avg exercise hours per day = 0.02
+15821,Low Risk,0.719,0.281,0.0,avg work hours per day = 11.13; avg sleep hours per day = 6.42
+19742,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+18404,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; avg sleep hours per day = 6.38
+10810,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.54
+19946,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 5
+16199,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.58; family time hours = 1.06; physical health score = 5
+10128,Medium Risk,0.0,1.0,0.0,job satisfaction = 4; avg exercise hours per day = 0.01
+18061,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.24; social time hours = 0.5; avg exercise hours per day = 0.28
+11145,Low Risk,1.0,0.0,0.0,no single dominant driver
+11007,Low Risk,1.0,0.0,0.0,no single dominant driver
+16388,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0
+18745,Medium Risk,0.0,1.0,0.0,physical health score = 5; social time hours = 0.75; avg exercise hours per day = 0.26
+17702,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.21; mental health score = 4
+14388,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.3
+15842,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 4; mental health score = 3
+15582,High Risk,0.0,0.038,0.962,avg work hours per day = 12.43; job satisfaction = 6; commute time mins = 68
+10222,High Risk,0.0,0.0,1.0,avg work hours per day = 13.39; job satisfaction = 4; stress level = 6
+16589,Medium Risk,0.0,0.997,0.003,stress level = 7; job satisfaction = 6; mental health score = 6
+15894,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 11.3; job satisfaction = 6
+14174,Low Risk,1.0,0.0,0.0,no single dominant driver
+15388,Medium Risk,0.031,0.969,0.0,avg sleep hours per day = 6.33
+16581,Low Risk,1.0,0.0,0.0,no single dominant driver
+12163,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.06
+12005,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.06
+18205,Low Risk,1.0,0.0,0.0,physical health score = 5
+18193,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 3; stress level = 8
+16277,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.2
+10578,Medium Risk,0.0,0.995,0.005,avg work hours per day = 11.35; avg sleep hours per day = 5.94; physical health score = 5
+10412,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+12443,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+11966,High Risk,0.0,0.001,0.999,avg work hours per day = 12.68; family time hours = 1.07; commute time mins = 54
+12505,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 6; mental health score = 6
+12411,High Risk,0.0,0.0,1.0,avg work hours per day = 11.53; mental health score = 5; job satisfaction = 6
+13738,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.68
+14603,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.2; commute time mins = 60; physical health score = 5
+17516,Low Risk,1.0,0.0,0.0,commute time mins = 56; avg sleep hours per day = 6.51
+16382,Low Risk,1.0,0.0,0.0,no single dominant driver
+12031,Low Risk,1.0,0.0,0.0,commute time mins = 50; avg rest hours per day = 5.2
+16672,Low Risk,1.0,0.0,0.0,commute time mins = 56; social time hours = 0.85
+17790,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; physical health score = 5
+14183,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.29
+15368,Medium Risk,0.0,0.679,0.321,stress level = 6; job satisfaction = 6; mental health score = 6
+18554,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 5
+16368,Low Risk,1.0,0.0,0.0,no single dominant driver
+15531,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.2
+10253,Low Risk,1.0,0.0,0.0,no single dominant driver
+15928,High Risk,0.0,0.45,0.55,avg work hours per day = 11.57; mental health score = 6; physical health score = 5
+17057,Low Risk,1.0,0.0,0.0,family time hours = 0.67; commute time mins = 63; social time hours = 0.44
+19046,Low Risk,1.0,0.0,0.0,physical health score = 5; commute time mins = 49; avg exercise hours per day = 0.27
+18864,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.53; stress level = 6
+11011,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.24
+19377,Medium Risk,0.0,1.0,0.0,mental health score = 6; social time hours = 0.44
+11375,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.34; avg sleep hours per day = 5.93
+14543,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; avg work hours per day = 11.82
+12476,Medium Risk,0.0,0.982,0.018,avg work hours per day = 10.57; job satisfaction = 6; mental health score = 6
+17465,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.19; stress level = 7
+15145,High Risk,0.0,0.0,1.0,avg work hours per day = 11.33; avg sleep hours per day = 5.27; stress level = 6
+13932,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.02
+19779,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.88
+12294,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.39; commute time mins = 48
+13321,High Risk,0.0,0.0,1.0,stress level = 10; avg work hours per day = 14; mental health score = 2
+16544,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+14540,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 4.76
+13174,Medium Risk,0.0,1.0,0.0,physical health score = 4; social time hours = 0.73
+15935,Medium Risk,0.0,1.0,0.0,commute time mins = 63; family time hours = 2.09; avg exercise hours per day = 0
+16229,Low Risk,1.0,0.0,0.0,commute time mins = 55; avg exercise hours per day = 0
+15637,Medium Risk,0.0,0.976,0.024,avg work hours per day = 11.14; commute time mins = 71; mental health score = 6
+17194,Low Risk,1.0,0.0,0.0,job satisfaction = 6; social time hours = 0.65; avg exercise hours per day = 0.26
+18153,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.32
+13552,Low Risk,1.0,0.0,0.0,no single dominant driver
+15683,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg sleep hours per day = 5.9
+11465,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.25
+17549,Low Risk,1.0,0.0,0.0,no single dominant driver
+17387,Medium Risk,0.0,1.0,0.0,stress level = 8; mental health score = 5; avg sleep hours per day = 5.74
+17442,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.31; avg exercise hours per day = 0.28
+10369,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 69; family time hours = 1.76
+12623,Low Risk,1.0,0.0,0.0,family time hours = 1.77; social time hours = 0.8; avg rest hours per day = 4.3
+14106,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 4; job satisfaction = 6
+18971,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.37; social time hours = 0.5; avg rest hours per day = 4.99
+12547,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.84; commute time mins = 67; avg rest hours per day = 4.84
+14337,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.8; avg sleep hours per day = 5.58
+12511,Low Risk,1.0,0.0,0.0,social time hours = 0.75; avg exercise hours per day = 0.11
+13407,High Risk,0.0,0.002,0.998,avg sleep hours per day = 4.48; job satisfaction = 6; mental health score = 6
+17347,Low Risk,1.0,0.0,0.0,no single dominant driver
+16345,Low Risk,0.854,0.146,0.0,avg work hours per day = 10.55; family time hours = 2.17; avg rest hours per day = 5.18
+14412,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.08; family time hours = 1.14; social time hours = 0.49
+11737,Low Risk,1.0,0.0,0.0,social time hours = 0.83; avg exercise hours per day = 0.19
+16936,Low Risk,1.0,0.0,0.0,no single dominant driver
+17190,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg exercise hours per day = 0.34
+11839,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 8; job satisfaction = 4
+19088,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.13
+10611,High Risk,0.0,0.0,1.0,avg work hours per day = 12.29; job satisfaction = 5; mental health score = 5
+16192,Low Risk,1.0,0.0,0.0,no single dominant driver
+16032,High Risk,0.0,0.0,1.0,avg work hours per day = 10.75; stress level = 6; job satisfaction = 6
+15541,Low Risk,1.0,0.0,0.0,physical health score = 5
+15350,Medium Risk,0.0,1.0,0.0,mental health score = 4; job satisfaction = 6; social time hours = 0.47
+14583,Medium Risk,0.0,1.0,0.0,avg work hours per day = 13.1; physical health score = 5; family time hours = 1.8
+16082,High Risk,0.0,0.0,1.0,avg work hours per day = 11.32; stress level = 6; job satisfaction = 6
+18812,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.44; avg exercise hours per day = 0.28
+14902,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 50
+14236,Low Risk,1.0,0.0,0.0,no single dominant driver
+15678,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.12
+10533,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.23; commute time mins = 55; physical health score = 5
+14082,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.53
+17996,High Risk,0.0,0.0,1.0,avg work hours per day = 11.75; stress level = 7; physical health score = 4
+15921,Low Risk,1.0,0.0,0.0,social time hours = 0.49
+12039,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.75; family time hours = 1.06; avg sleep hours per day = 6.54
+10203,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.94; family time hours = 2.07
+12919,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 6.04
+14447,High Risk,0.0,0.0,1.0,avg work hours per day = 12.06; stress level = 7; mental health score = 5
+12907,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.29
+16941,High Risk,0.0,0.0,1.0,avg work hours per day = 12.69; stress level = 8; mental health score = 3
+15861,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 5
+10095,High Risk,0.0,0.0,1.0,avg work hours per day = 13.69; stress level = 8; job satisfaction = 4
+14694,High Risk,0.0,0.0,1.0,mental health score = 4; avg sleep hours per day = 5.08; stress level = 6
+10628,Medium Risk,0.0,0.997,0.003,job satisfaction = 5; stress level = 6; mental health score = 5
+16291,High Risk,0.0,0.0,1.0,job satisfaction = 3; mental health score = 4; stress level = 6
+12079,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.96; commute time mins = 55
+15656,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+15088,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 4.98; avg work hours per day = 10.8
+16871,Low Risk,1.0,0.0,0.0,physical health score = 3
+13056,Medium Risk,0.0,0.948,0.052,stress level = 7; avg work hours per day = 10.28; mental health score = 6
+17885,Low Risk,1.0,0.0,0.0,no single dominant driver
+17630,Medium Risk,0.0,1.0,0.0,family time hours = 2.19; social time hours = 0.79
+16607,Medium Risk,0.16,0.84,0.0,avg sleep hours per day = 6.41; family time hours = 2.19
+13049,High Risk,0.0,0.0,1.0,mental health score = 4; stress level = 6; job satisfaction = 6
+11477,Low Risk,1.0,0.0,0.0,no single dominant driver
+18680,Low Risk,1.0,0.0,0.0,no single dominant driver
+18800,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 14
+19336,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 4
+19452,Low Risk,1.0,0.0,0.0,no single dominant driver
+18266,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 7; job satisfaction = 5
+16545,Low Risk,1.0,0.0,0.0,no single dominant driver
+11617,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.34; stress level = 6
+16780,Medium Risk,0.0,1.0,0.0,no single dominant driver
+14945,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.02
+19209,Low Risk,1.0,0.0,0.0,social time hours = 0.6
+14341,Low Risk,1.0,0.0,0.0,family time hours = 1.75; social time hours = 0.85; avg rest hours per day = 4.79
+19162,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 47; avg exercise hours per day = 0.02
+19604,High Risk,0.0,0.0,1.0,stress level = 10; mental health score = 1; job satisfaction = 4
+14676,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 8; mental health score = 4
+18882,Low Risk,1.0,0.0,0.0,stress level = 6; avg sleep hours per day = 6.24; avg exercise hours per day = 0.13
+11332,Low Risk,1.0,0.0,0.0,physical health score = 5; social time hours = 0.83; avg exercise hours per day = 0.22
+13883,High Risk,0.0,0.0,1.0,stress level = 10; job satisfaction = 3; mental health score = 2
+19551,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; avg exercise hours per day = 0.28
+11971,Medium Risk,0.198,0.802,0.0,mental health score = 6; social time hours = 0.76; avg exercise hours per day = 0.06
+16063,Medium Risk,0.0,1.0,0.0,commute time mins = 60; avg sleep hours per day = 6.4
+12041,Low Risk,1.0,0.0,0.0,no single dominant driver
+13179,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.3
+10560,High Risk,0.0,0.0,1.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 5.97
+18651,Low Risk,1.0,0.0,0.0,commute time mins = 66; avg exercise hours per day = 0.13
+11276,Medium Risk,0.0,0.984,0.016,mental health score = 5; job satisfaction = 6; physical health score = 5
+14680,High Risk,0.0,0.0,1.0,stress level = 10; mental health score = 1; job satisfaction = 4
+10912,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.39; commute time mins = 54; avg sleep hours per day = 6.58
+17370,Low Risk,1.0,0.0,0.0,commute time mins = 76
+19140,Medium Risk,0.0,1.0,0.0,physical health score = 5; social time hours = 0.78; avg exercise hours per day = 0.18
+13964,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.79; family time hours = 1.56; avg rest hours per day = 4.46
+19593,Low Risk,1.0,0.0,0.0,commute time mins = 74
+12677,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.25
+15846,High Risk,0.0,0.0,1.0,stress level = 9; avg work hours per day = 12.6; mental health score = 2
+10157,Medium Risk,0.0,1.0,0.0,commute time mins = 50; social time hours = 0.57; avg exercise hours per day = 0.23
+13128,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg sleep hours per day = 5.61; mental health score = 6
+14022,Low Risk,0.987,0.013,0.0,no single dominant driver
+15468,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.33
+13497,Low Risk,1.0,0.0,0.0,commute time mins = 61; avg sleep hours per day = 6.38; social time hours = 0.85
+19630,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.23
+18235,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.61; family time hours = 1.7; social time hours = 0.53
+12764,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.8; family time hours = 1.27; commute time mins = 52
+15705,Low Risk,1.0,0.0,0.0,no single dominant driver
+12629,Low Risk,0.943,0.057,0.0,no single dominant driver
+19804,High Risk,0.0,0.0,1.0,stress level = 9; job satisfaction = 5; mental health score = 4
+12246,Medium Risk,0.033,0.967,0.0,avg sleep hours per day = 4.87; physical health score = 5
+17611,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.03
+12418,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.12; physical health score = 5
+16578,Medium Risk,0.0,0.591,0.409,avg sleep hours per day = 5.68; job satisfaction = 6; mental health score = 6
+12486,High Risk,0.0,0.0,1.0,avg work hours per day = 13.65; job satisfaction = 6; mental health score = 6
+18579,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 6; mental health score = 6
+16514,Low Risk,1.0,0.0,0.0,job satisfaction = 6; physical health score = 5; avg exercise hours per day = 0.26
+18466,Medium Risk,0.0,1.0,0.0,commute time mins = 91; mental health score = 6; avg exercise hours per day = 0.26
+10089,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.85; job satisfaction = 6; mental health score = 6
+18655,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 14
+10436,Medium Risk,0.0,0.958,0.042,stress level = 6; avg work hours per day = 10.48; job satisfaction = 6
+14724,Medium Risk,0.0,1.0,0.0,mental health score = 6; physical health score = 5; family time hours = 1.99
+18020,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.05
+13864,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.33; family time hours = 1.46; social time hours = 0.41
+17065,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 8; avg work hours per day = 12
+19348,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.11
+15857,Low Risk,1.0,0.0,0.0,no single dominant driver
+19797,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.23; stress level = 6; commute time mins = 56
+18224,Low Risk,1.0,0.0,0.0,social time hours = 0.7; avg exercise hours per day = 0.15
+17462,Low Risk,1.0,0.0,0.0,physical health score = 5; social time hours = 0.83
+11199,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.18
+10866,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.64
+10354,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.52; avg sleep hours per day = 6.24
+10439,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 5
+18394,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.67; family time hours = 0.82; commute time mins = 52
+13021,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.15
+10506,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.16; physical health score = 5; avg exercise hours per day = 0.33
+17456,Low Risk,1.0,0.0,0.0,commute time mins = 62; physical health score = 5; social time hours = 0.67
+11064,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.36
+19644,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; commute time mins = 74
+17503,Low Risk,1.0,0.0,0.0,social time hours = 0.52; avg exercise hours per day = 0.06
+14752,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.31
+15453,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.73; social time hours = 0.86; avg rest hours per day = 5.01
+17145,High Risk,0.0,0.0,1.0,avg work hours per day = 13.15; stress level = 8; job satisfaction = 4
+15184,Low Risk,1.0,0.0,0.0,commute time mins = 77; social time hours = 0.43; avg rest hours per day = 4.97
+11659,Medium Risk,0.0,1.0,0.0,stress level = 7; job satisfaction = 6; mental health score = 6
+10644,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+15146,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6; commute time mins = 59; physical health score = 5
+15383,Low Risk,1.0,0.0,0.0,no single dominant driver
+11194,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.01; physical health score = 5; avg exercise hours per day = 0.21
+15774,Low Risk,0.999,0.001,0.0,avg sleep hours per day = 6
+16685,Medium Risk,0.0,1.0,0.0,no single dominant driver
+16681,Low Risk,1.0,0.0,0.0,no single dominant driver
+16710,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.55; job satisfaction = 6; family time hours = 1.85
+17294,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 58; physical health score = 5
+18072,Medium Risk,0.0,0.999,0.001,avg work hours per day = 11.27; job satisfaction = 6; mental health score = 6
+10002,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 76; social time hours = 0.85
+12575,Medium Risk,0.0,1.0,0.0,mental health score = 4; avg work hours per day = 10.81; stress level = 6
+14570,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; stress level = 6; avg sleep hours per day = 5.68
+11113,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; commute time mins = 57
+16025,Medium Risk,0.0,1.0,0.0,commute time mins = 50; social time hours = 0.54; avg exercise hours per day = 0
+14130,Low Risk,1.0,0.0,0.0,no single dominant driver
+12557,Low Risk,1.0,0.0,0.0,no single dominant driver
+19086,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 5.8; physical health score = 5
+18624,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.27
+12626,High Risk,0.0,0.006,0.994,avg work hours per day = 11.79; avg sleep hours per day = 6.03; physical health score = 5
+18295,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.03
+12885,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; social time hours = 0.61
+12973,Low Risk,1.0,0.0,0.0,commute time mins = 60
+12283,Low Risk,1.0,0.0,0.0,no single dominant driver
+15308,High Risk,0.0,0.0,1.0,avg work hours per day = 10.87; stress level = 6; commute time mins = 74
+15391,High Risk,0.0,0.0,1.0,avg work hours per day = 12.14; job satisfaction = 5; stress level = 6
+19734,Low Risk,1.0,0.0,0.0,social time hours = 0.63; avg exercise hours per day = 0.01
+11852,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.95; stress level = 6
+15729,Low Risk,1.0,0.0,0.0,commute time mins = 53; family time hours = 1.61; avg rest hours per day = 4.68
+13902,Medium Risk,0.0,1.0,0.0,commute time mins = 68; avg sleep hours per day = 6.4; family time hours = 1.77
+14574,Low Risk,1.0,0.0,0.0,social time hours = 0.83
+12649,Medium Risk,0.0,1.0,0.0,physical health score = 4; commute time mins = 53; avg exercise hours per day = 0.11
+12953,Medium Risk,0.0,1.0,0.0,physical health score = 5
+19826,Low Risk,1.0,0.0,0.0,no single dominant driver
+13281,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.15
+12986,High Risk,0.0,0.0,1.0,avg work hours per day = 11.77; stress level = 7; mental health score = 5
+10180,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.06
+15198,Low Risk,1.0,0.0,0.0,commute time mins = 51
+12287,Medium Risk,0.0,1.0,0.0,job satisfaction = 4; mental health score = 5
+13823,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+19931,Low Risk,0.999,0.001,0.0,no single dominant driver
+11702,Low Risk,1.0,0.0,0.0,no single dominant driver
+18637,Medium Risk,0.484,0.516,0.0,avg sleep hours per day = 6.5; avg exercise hours per day = 0.34
+12671,High Risk,0.0,0.172,0.828,avg work hours per day = 10.72; job satisfaction = 6; family time hours = 1.98
+11278,Medium Risk,0.0,0.988,0.012,job satisfaction = 5; avg work hours per day = 11.11; physical health score = 5
+10425,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.66; commute time mins = 79
+19857,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 11.28; mental health score = 6
+15058,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+15660,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.18
+15101,Medium Risk,0.0,1.0,0.0,stress level = 7; avg work hours per day = 10.43; physical health score = 5
+10096,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.55
+14901,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.31; stress level = 6
+10380,Low Risk,1.0,0.0,0.0,no single dominant driver
+12037,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+14799,High Risk,0.0,0.0,1.0,avg work hours per day = 12.6; job satisfaction = 4; stress level = 7
+13347,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 49; social time hours = 0.68
+16365,Medium Risk,0.006,0.994,0.0,avg sleep hours per day = 5.66
+19949,Low Risk,1.0,0.0,0.0,no single dominant driver
+16377,Medium Risk,0.008,0.992,0.0,commute time mins = 54
+17431,Medium Risk,0.114,0.886,0.0,physical health score = 4; social time hours = 0.77; avg exercise hours per day = 0.07
+19792,High Risk,0.0,0.0,1.0,avg work hours per day = 13.16; job satisfaction = 5; stress level = 6
+19408,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+11494,Low Risk,1.0,0.0,0.0,social time hours = 0.83
+15491,Low Risk,1.0,0.0,0.0,family time hours = 2
+14426,Medium Risk,0.0,1.0,0.0,no single dominant driver
+14638,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.75; physical health score = 5
+14934,Low Risk,1.0,0.0,0.0,commute time mins = 49; social time hours = 0.67
+13091,Low Risk,1.0,0.0,0.0,no single dominant driver
+12222,High Risk,0.0,0.0,1.0,avg work hours per day = 11.81; stress level = 6; mental health score = 5
+17934,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.42; job satisfaction = 6
+17386,Low Risk,1.0,0.0,0.0,no single dominant driver
+10618,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+14448,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.62; mental health score = 5; family time hours = 1.19
+15836,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.59; physical health score = 5
+18286,Medium Risk,0.0,0.807,0.193,job satisfaction = 5; family time hours = 2.2; avg exercise hours per day = 0
+15695,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.29
+17508,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; commute time mins = 60
+19901,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.26; mental health score = 6
+17955,Low Risk,1.0,0.0,0.0,commute time mins = 49; social time hours = 0.85
+13825,Medium Risk,0.0,1.0,0.0,stress level = 7; mental health score = 6; avg sleep hours per day = 6.52
+11973,Medium Risk,0.0,1.0,0.0,family time hours = 2.02
+11251,Medium Risk,0.0,0.997,0.003,commute time mins = 79; job satisfaction = 6; family time hours = 2.02
+17090,High Risk,0.0,0.001,0.999,mental health score = 5; job satisfaction = 6; physical health score = 5
+13386,Medium Risk,0.0,1.0,0.0,avg work hours per day = 14; family time hours = 0; social time hours = 0.04
+13548,Medium Risk,0.0,0.998,0.002,stress level = 6; mental health score = 5; commute time mins = 57
+12702,Medium Risk,0.0,0.999,0.001,avg work hours per day = 11.99; stress level = 7; family time hours = 1.55
+15702,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 13.4; stress level = 8
+17140,Low Risk,0.625,0.375,0.0,avg work hours per day = 10.32; family time hours = 1.26; social time hours = 0.41
+17363,Low Risk,1.0,0.0,0.0,social time hours = 0.74; avg exercise hours per day = 0.07
+19364,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.83
+15451,Low Risk,1.0,0.0,0.0,no single dominant driver
+16314,High Risk,0.0,0.0,1.0,job satisfaction = 3; mental health score = 4; stress level = 6
+16443,High Risk,0.0,0.0,1.0,commute time mins = 91; stress level = 6; job satisfaction = 6
+12177,Low Risk,0.997,0.003,0.0,physical health score = 5
+17805,Medium Risk,0.0,1.0,0.0,commute time mins = 64; avg exercise hours per day = 0.09
+14069,High Risk,0.0,0.0,1.0,avg work hours per day = 11.53; job satisfaction = 6; family time hours = 1.19
+18862,Low Risk,1.0,0.0,0.0,no single dominant driver
+16671,Medium Risk,0.0,1.0,0.0,commute time mins = 62; social time hours = 0.51; avg rest hours per day = 5.25
+17295,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; avg sleep hours per day = 6.38
+11548,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.33; mental health score = 6; commute time mins = 55
+18112,High Risk,0.0,0.0,1.0,stress level = 6; avg sleep hours per day = 5.55; avg work hours per day = 10.53
+12223,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.49; avg exercise hours per day = 0
+19978,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.21
+10549,Medium Risk,0.003,0.997,0.0,avg exercise hours per day = 0.01
+17424,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+14757,Low Risk,1.0,0.0,0.0,commute time mins = 73; avg sleep hours per day = 6
+17858,Low Risk,0.821,0.179,0.0,commute time mins = 71; avg sleep hours per day = 6.35; avg exercise hours per day = 0.18
+17849,High Risk,0.0,0.0,1.0,avg work hours per day = 11.88; stress level = 6; job satisfaction = 6
+18106,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.31
+10154,Low Risk,0.995,0.005,0.0,physical health score = 5
+11152,High Risk,0.0,0.0,1.0,avg work hours per day = 11.97; job satisfaction = 5; family time hours = 1.86
+12694,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg work hours per day = 11.04
+12097,Medium Risk,0.0,1.0,0.0,social time hours = 0.83; avg exercise hours per day = 0.15
+18138,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 5; avg work hours per day = 10.6
+16092,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.49; physical health score = 5; social time hours = 0.66
+13532,Low Risk,1.0,0.0,0.0,family time hours = 1.79; social time hours = 0.78; avg rest hours per day = 4.49
+17555,High Risk,0.0,0.014,0.986,stress level = 6; avg work hours per day = 10.41; job satisfaction = 6
+12936,Low Risk,1.0,0.0,0.0,family time hours = 1.8; social time hours = 0.67; avg rest hours per day = 5.16
+15748,Medium Risk,0.0,1.0,0.0,commute time mins = 64; avg exercise hours per day = 0.12
+12878,High Risk,0.0,0.0,1.0,avg work hours per day = 12.59; job satisfaction = 6; family time hours = 0.6
+14169,Medium Risk,0.0,0.988,0.012,job satisfaction = 5; mental health score = 6; physical health score = 5
+12550,Low Risk,1.0,0.0,0.0,job satisfaction = 6; commute time mins = 48; social time hours = 0.52
+18197,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.17
+16257,Medium Risk,0.012,0.988,0.0,commute time mins = 72; family time hours = 1.63; avg rest hours per day = 4.58
+12762,Low Risk,0.994,0.006,0.0,avg work hours per day = 10.29; social time hours = 0.66; avg exercise hours per day = 0.33
+19185,High Risk,0.0,0.0,1.0,stress level = 9; social time hours = 0.79; avg rest hours per day = 4.9
+12521,Low Risk,1.0,0.0,0.0,no single dominant driver
+12811,High Risk,0.0,0.0,1.0,stress level = 6; job satisfaction = 6; avg work hours per day = 10.3
+13753,High Risk,0.0,0.0,1.0,stress level = 8; mental health score = 5; job satisfaction = 6
+18446,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.25
+18687,High Risk,0.0,0.0,1.0,job satisfaction = 4; mental health score = 3; stress level = 7
+12433,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.33; commute time mins = 59; avg sleep hours per day = 6.46
+10668,Low Risk,1.0,0.0,0.0,no single dominant driver
+15522,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg sleep hours per day = 5.12; avg work hours per day = 10.94
+13682,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.86
+19679,Medium Risk,0.0,1.0,0.0,job satisfaction = 5
+11823,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.26
+18791,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.77; job satisfaction = 6; mental health score = 6
+14046,Low Risk,1.0,0.0,0.0,social time hours = 0.78
+19672,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; avg sleep hours per day = 5.74
+11552,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.3; mental health score = 6
+14480,Low Risk,1.0,0.0,0.0,family time hours = 1.8; avg rest hours per day = 4.89
+14204,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.43; social time hours = 0.56; avg rest hours per day = 4.79
+13114,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.44; avg sleep hours per day = 6.05; family time hours = 2.17
+18902,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.04
+12448,High Risk,0.0,0.0,1.0,avg work hours per day = 12.76; stress level = 8; job satisfaction = 6
+17821,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.44; job satisfaction = 6; avg sleep hours per day = 6.44
+14433,High Risk,0.0,0.0,1.0,avg work hours per day = 11.33; stress level = 6; job satisfaction = 6
+13223,Low Risk,1.0,0.0,0.0,no single dominant driver
+17878,Low Risk,1.0,0.0,0.0,commute time mins = 53
+11463,Low Risk,1.0,0.0,0.0,commute time mins = 74; social time hours = 0.71
+18008,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+15037,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.04; family time hours = 1.84; avg rest hours per day = 4.8
+11661,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.32
+15622,Low Risk,1.0,0.0,0.0,no single dominant driver
+16715,Medium Risk,0.001,0.999,0.0,physical health score = 4; family time hours = 1.4; avg rest hours per day = 4.18
+12181,Low Risk,1.0,0.0,0.0,stress level = 6; avg sleep hours per day = 6.18
+18134,Low Risk,1.0,0.0,0.0,no single dominant driver
+15093,High Risk,0.0,0.0,1.0,job satisfaction = 5; commute time mins = 82; mental health score = 6
+17591,High Risk,0.0,0.15,0.85,mental health score = 4; stress level = 6; avg sleep hours per day = 5.92
+16244,Low Risk,1.0,0.0,0.0,family time hours = 1.83; avg rest hours per day = 5.25; avg exercise hours per day = 0.2
+14835,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.58; commute time mins = 54; physical health score = 5
+19304,Low Risk,0.819,0.181,0.0,commute time mins = 65; family time hours = 0.85; social time hours = 0.29
+12962,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.36; family time hours = 1.49
+17339,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.02; job satisfaction = 6; family time hours = 1.32
+17875,Medium Risk,0.0,1.0,0.0,physical health score = 5; avg exercise hours per day = 0.02
+13144,Medium Risk,0.396,0.604,0.0,avg sleep hours per day = 6.17
+15133,Low Risk,0.793,0.207,0.0,family time hours = 1.93; social time hours = 0.86; avg rest hours per day = 4.94
+12830,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.72; commute time mins = 54; avg exercise hours per day = 0.18
+10118,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.52; social time hours = 0.75
+19507,Medium Risk,0.0,1.0,0.0,stress level = 6; social time hours = 0.76
+10035,High Risk,0.0,0.002,0.998,avg work hours per day = 12.79; family time hours = 1.28; physical health score = 5
+19587,Medium Risk,0.0,1.0,0.0,commute time mins = 65; family time hours = 1.66; avg sleep hours per day = 6.59
+13881,Low Risk,1.0,0.0,0.0,no single dominant driver
+11090,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg sleep hours per day = 5.52
+12989,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 5
+14381,Low Risk,1.0,0.0,0.0,family time hours = 1.55; avg rest hours per day = 5.15
+11071,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.9; physical health score = 4
+11303,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.51; avg exercise hours per day = 0.01
+14123,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; avg work hours per day = 11.19
+16172,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.19; job satisfaction = 6; avg sleep hours per day = 6.56
+11760,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.13; family time hours = 1.29; avg sleep hours per day = 6.46
+14864,Low Risk,0.994,0.006,0.0,avg sleep hours per day = 6.36
+14098,Medium Risk,0.0,0.556,0.444,avg work hours per day = 11.89; physical health score = 4; avg sleep hours per day = 6.44
+16322,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 13.02; stress level = 6
+11879,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+14287,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.36; avg rest hours per day = 5.28
+13454,High Risk,0.0,0.0,1.0,job satisfaction = 4; mental health score = 3; stress level = 7
+11929,Low Risk,1.0,0.0,0.0,family time hours = 2; avg rest hours per day = 5.32
+11231,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.32
+10808,Low Risk,1.0,0.0,0.0,commute time mins = 59; social time hours = 0.76
+18678,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.64; avg sleep hours per day = 6.12
+14512,High Risk,0.0,0.0,1.0,avg work hours per day = 12.22; stress level = 6; mental health score = 5
+17368,Medium Risk,0.0,0.946,0.054,avg work hours per day = 11.49; stress level = 6; family time hours = 1.69
+19739,High Risk,0.0,0.0,1.0,stress level = 10; avg work hours per day = 14; job satisfaction = 3
+15362,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.29; commute time mins = 68; family time hours = 2.02
+12999,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 5; avg sleep hours per day = 5.68
+16482,High Risk,0.0,0.0,1.0,avg work hours per day = 11.58; stress level = 6; job satisfaction = 6
+16191,Medium Risk,0.0,1.0,0.0,stress level = 6; physical health score = 5
+14800,Low Risk,1.0,0.0,0.0,family time hours = 1.86; avg exercise hours per day = 0.21
+14662,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; mental health score = 4
+12817,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+19722,Low Risk,1.0,0.0,0.0,commute time mins = 52; social time hours = 0.86
+11575,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.15; avg sleep hours per day = 5.82; family time hours = 1.94
+11296,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.59
+13045,Low Risk,1.0,0.0,0.0,social time hours = 0.85; avg rest hours per day = 5.33
+16706,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg rest hours per day = 5.01; avg exercise hours per day = 0.02
+16145,Low Risk,1.0,0.0,0.0,commute time mins = 82; family time hours = 1.66; social time hours = 0.47
+19049,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 6; family time hours = 0
+10523,Medium Risk,0.0,0.964,0.036,stress level = 7; job satisfaction = 6; mental health score = 6
+17669,High Risk,0.0,0.004,0.996,job satisfaction = 5; stress level = 6; mental health score = 6
+15268,Low Risk,0.519,0.481,0.0,stress level = 6
+15989,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; physical health score = 5
+10072,Low Risk,1.0,0.0,0.0,family time hours = 1.85; avg rest hours per day = 4.55
+16206,High Risk,0.0,0.0,1.0,avg work hours per day = 13.93; job satisfaction = 3; stress level = 8
+12823,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.29
+14578,Low Risk,1.0,0.0,0.0,no single dominant driver
+18869,Low Risk,1.0,0.0,0.0,mental health score = 6; physical health score = 5; commute time mins = 50
+14573,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.59; social time hours = 0.85
+15230,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.29
+15737,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 68; family time hours = 1.85
+18255,High Risk,0.0,0.0,1.0,avg work hours per day = 11.66; stress level = 7; job satisfaction = 5
+11372,Low Risk,1.0,0.0,0.0,no single dominant driver
+15980,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.72; stress level = 6
+14206,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.36; stress level = 6
+17672,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 72; social time hours = 0.86
+19256,Low Risk,1.0,0.0,0.0,family time hours = 1.8
+19441,Low Risk,1.0,0.0,0.0,no single dominant driver
+15025,Low Risk,1.0,0.0,0.0,family time hours = 1.91; avg rest hours per day = 5.17
+17419,Low Risk,0.966,0.034,0.0,avg exercise hours per day = 0.14
+18310,Medium Risk,0.0,1.0,0.0,family time hours = 1.79; social time hours = 0.73; avg exercise hours per day = 0.17
+18168,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 5; avg work hours per day = 10.54
+16927,Medium Risk,0.0,0.974,0.026,avg sleep hours per day = 5.24; stress level = 6; mental health score = 6
+19230,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.61; physical health score = 3; avg exercise hours per day = 0.04
+12363,High Risk,0.0,0.0,1.0,avg work hours per day = 12.62; stress level = 8; family time hours = 0.84
+12254,Low Risk,0.703,0.297,0.0,physical health score = 4; avg exercise hours per day = 0.07
+16658,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.47; commute time mins = 49
+19332,Low Risk,1.0,0.0,0.0,no single dominant driver
+15654,Low Risk,1.0,0.0,0.0,avg work hours per day = 12.36; family time hours = 0.49; social time hours = 0.2
+18957,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.1
+14190,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; avg sleep hours per day = 5.64
+13609,Low Risk,1.0,0.0,0.0,mental health score = 6; physical health score = 5
+10404,Medium Risk,0.0,1.0,0.0,commute time mins = 55; avg exercise hours per day = 0.34
+13208,Low Risk,0.989,0.011,0.0,commute time mins = 62; social time hours = 0.65
+16446,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; commute time mins = 69
+19375,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 9; job satisfaction = 4
+15509,Low Risk,0.626,0.374,0.0,social time hours = 0.67; avg rest hours per day = 4.49
+19581,High Risk,0.0,0.0,1.0,avg work hours per day = 11.66; job satisfaction = 5; stress level = 6
+12786,Low Risk,1.0,0.0,0.0,no single dominant driver
+15779,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.56; avg exercise hours per day = 0.16
+11710,Low Risk,1.0,0.0,0.0,commute time mins = 47
+11289,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.17; family time hours = 1.85; social time hours = 0.75
+16700,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.7; commute time mins = 71
+10438,Low Risk,1.0,0.0,0.0,commute time mins = 53
+11180,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 5.96
+15805,Low Risk,1.0,0.0,0.0,commute time mins = 47; avg exercise hours per day = 0.25
+13802,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.21; stress level = 6
+12114,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg work hours per day = 10.93
+11717,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.08; commute time mins = 57; physical health score = 5
+15075,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+18656,Medium Risk,0.004,0.996,0.0,avg sleep hours per day = 6.18; physical health score = 5
+14248,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.13
+17293,Medium Risk,0.0,0.999,0.001,job satisfaction = 5; avg sleep hours per day = 6.13; avg exercise hours per day = 0.09
+15305,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; mental health score = 4
+10437,Low Risk,1.0,0.0,0.0,no single dominant driver
+13282,Low Risk,1.0,0.0,0.0,no single dominant driver
+15269,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.04
+17040,Low Risk,1.0,0.0,0.0,social time hours = 0.81; avg exercise hours per day = 0.3
+11800,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0
+19854,High Risk,0.0,0.0,1.0,avg work hours per day = 11.88; stress level = 6; job satisfaction = 6
+14111,Low Risk,1.0,0.0,0.0,no single dominant driver
+12543,Low Risk,1.0,0.0,0.0,no single dominant driver
+15340,Low Risk,1.0,0.0,0.0,commute time mins = 75; avg sleep hours per day = 5.98; social time hours = 0.73
+13856,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.69; avg exercise hours per day = 0.02
+16993,High Risk,0.0,0.068,0.932,stress level = 6; avg work hours per day = 10.55; avg sleep hours per day = 5.74
+13748,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; physical health score = 5; family time hours = 2.09
+14627,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 5.55
+17443,High Risk,0.0,0.0,1.0,avg work hours per day = 12.46; commute time mins = 76; family time hours = 0.35
+18363,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 6.22
+18323,High Risk,0.0,0.0,1.0,avg work hours per day = 12.96; stress level = 7; family time hours = 0.43
+16335,High Risk,0.0,0.002,0.998,job satisfaction = 4; stress level = 6; mental health score = 6
+17499,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.77; commute time mins = 61
+11987,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.76; stress level = 6; avg sleep hours per day = 6.47
+16577,Low Risk,1.0,0.0,0.0,social time hours = 0.85
+10174,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.74; job satisfaction = 5
+19106,Low Risk,1.0,0.0,0.0,no single dominant driver
+11269,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.35; social time hours = 0.74
+19731,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; mental health score = 4
+17441,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 5.5; job satisfaction = 6
+12568,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.31
+13384,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.41; social time hours = 0.82
+18253,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.3
+16186,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; avg sleep hours per day = 6.37
+14921,Low Risk,1.0,0.0,0.0,no single dominant driver
+14036,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.31; family time hours = 0.8; social time hours = 0.25
+19686,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.21
+12833,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; social time hours = 0.84
+10169,Medium Risk,0.0,1.0,0.0,mental health score = 5; avg sleep hours per day = 6.27
+16937,Low Risk,1.0,0.0,0.0,no single dominant driver
+15176,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.05; stress level = 7
+12324,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 11.69; mental health score = 4
+11025,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.23; commute time mins = 57
+12422,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.15
+12900,Low Risk,1.0,0.0,0.0,family time hours = 2.15
+13210,High Risk,0.0,0.0,1.0,job satisfaction = 3; mental health score = 2; stress level = 6
+11818,Low Risk,1.0,0.0,0.0,family time hours = 1.9; social time hours = 0.49; avg rest hours per day = 5.13
+14613,High Risk,0.0,0.0,1.0,avg sleep hours per day = 5.74; avg work hours per day = 10.39; job satisfaction = 6
+15880,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.45; avg exercise hours per day = 0.28
+17168,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; commute time mins = 57
+14546,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.31; mental health score = 5
+14090,Low Risk,1.0,0.0,0.0,commute time mins = 70
+13699,Low Risk,1.0,0.0,0.0,commute time mins = 53; avg sleep hours per day = 6.53
+18131,Low Risk,1.0,0.0,0.0,family time hours = 1.95; social time hours = 0.79; avg rest hours per day = 5.32
+14180,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.29; avg exercise hours per day = 0.22
+17283,Low Risk,1.0,0.0,0.0,commute time mins = 65; family time hours = 2.09; avg rest hours per day = 5.4
+19098,Medium Risk,0.0,1.0,0.0,social time hours = 0.53
+12950,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.49; family time hours = 1.44; social time hours = 0.69
+15190,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0
+17155,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 5.37
+10732,Low Risk,1.0,0.0,0.0,commute time mins = 57; avg exercise hours per day = 0.07
+10736,Low Risk,1.0,0.0,0.0,commute time mins = 67; family time hours = 1.71; social time hours = 0.71
+19228,High Risk,0.0,0.0,1.0,commute time mins = 89; mental health score = 5; job satisfaction = 6
+19400,Low Risk,0.651,0.349,0.0,avg exercise hours per day = 0.11
+18339,High Risk,0.0,0.0,1.0,mental health score = 4; avg sleep hours per day = 5.4; job satisfaction = 6
+11141,Low Risk,1.0,0.0,0.0,family time hours = 2.12; social time hours = 0.81; avg rest hours per day = 3.97
+10210,Medium Risk,0.024,0.976,0.0,physical health score = 5
+16640,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+17448,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.69
+16282,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.24
+11525,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 5.6; job satisfaction = 6
+14461,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.42; physical health score = 5; social time hours = 0.73
+11517,Low Risk,0.597,0.403,0.0,no single dominant driver
+11706,Medium Risk,0.0,1.0,0.0,commute time mins = 50; social time hours = 0.49
+19969,Low Risk,1.0,0.0,0.0,social time hours = 0.76; avg rest hours per day = 5.23
+17176,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.4
+11243,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; family time hours = 1.24; commute time mins = 54
+14960,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+13289,High Risk,0.0,0.0,1.0,avg work hours per day = 11.18; stress level = 6; commute time mins = 69
+15034,Low Risk,1.0,0.0,0.0,no single dominant driver
+15348,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 6.54; avg exercise hours per day = 0.06
+15794,Low Risk,1.0,0.0,0.0,no single dominant driver
+11480,High Risk,0.0,0.0,1.0,mental health score = 5; avg work hours per day = 10.57; job satisfaction = 6
+15855,High Risk,0.0,0.0,1.0,avg work hours per day = 11.45; job satisfaction = 5; stress level = 6
+11953,High Risk,0.0,0.0,1.0,job satisfaction = 4; mental health score = 6; physical health score = 4
+18003,Medium Risk,0.135,0.865,0.0,family time hours = 1.91
+13048,Medium Risk,0.097,0.903,0.0,job satisfaction = 6; physical health score = 5; avg exercise hours per day = 0.17
+10440,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.74
+17625,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; physical health score = 4
+12218,Low Risk,1.0,0.0,0.0,commute time mins = 62; avg exercise hours per day = 0.19
+19376,High Risk,0.0,0.0,1.0,avg work hours per day = 11.8; stress level = 6; mental health score = 5
+17149,Medium Risk,0.0,1.0,0.0,physical health score = 5
+15375,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 4.69; mental health score = 6; commute time mins = 55
+12942,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.67; commute time mins = 49
+15738,Medium Risk,0.0,0.999,0.001,avg work hours per day = 11.68; job satisfaction = 6; physical health score = 5
+17382,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 4
+18672,Low Risk,0.995,0.005,0.0,family time hours = 1.74; avg rest hours per day = 5.17
+13580,Low Risk,1.0,0.0,0.0,no single dominant driver
+17490,Low Risk,0.995,0.005,0.0,social time hours = 0.64; avg rest hours per day = 4.92
+14940,High Risk,0.0,0.244,0.756,job satisfaction = 5; stress level = 6; mental health score = 5
+12851,Low Risk,1.0,0.0,0.0,commute time mins = 59; avg exercise hours per day = 0.26
+13012,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.67; mental health score = 6
+13379,Low Risk,1.0,0.0,0.0,no single dominant driver
+15252,High Risk,0.0,0.0,1.0,avg work hours per day = 12.18; avg sleep hours per day = 6.1; physical health score = 4
+17815,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 9; avg work hours per day = 13.15
+12412,Low Risk,1.0,0.0,0.0,family time hours = 1.92; social time hours = 0.64; avg rest hours per day = 5.27
+15999,Low Risk,0.999,0.001,0.0,no single dominant driver
+12102,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.05; family time hours = 1.45; social time hours = 0.64
+11499,Medium Risk,0.0,1.0,0.0,commute time mins = 84; physical health score = 2; job satisfaction = 6
+11645,Low Risk,1.0,0.0,0.0,physical health score = 5; family time hours = 2.17
+16007,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 4; avg work hours per day = 10.73
+13101,Low Risk,1.0,0.0,0.0,physical health score = 5
+14224,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.2
+17670,Low Risk,1.0,0.0,0.0,no single dominant driver
+16431,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; avg sleep hours per day = 4.99
+15675,Low Risk,1.0,0.0,0.0,no single dominant driver
+12712,High Risk,0.0,0.0,1.0,job satisfaction = 3; mental health score = 3; avg work hours per day = 11.7
+16327,Low Risk,1.0,0.0,0.0,commute time mins = 53; avg sleep hours per day = 6.55
+16865,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.6; family time hours = 2.07; social time hours = 0.65
+12203,High Risk,0.0,0.0,1.0,avg work hours per day = 11.16; job satisfaction = 6; mental health score = 6
+14974,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; family time hours = 1.56; social time hours = 0.72
+17543,Medium Risk,0.0,1.0,0.0,mental health score = 6; family time hours = 1.34; avg rest hours per day = 4.14
+18919,Medium Risk,0.006,0.994,0.0,job satisfaction = 4; physical health score = 5; avg exercise hours per day = 0.09
+10747,High Risk,0.0,0.0,1.0,avg work hours per day = 11.74; stress level = 7; mental health score = 5
+19691,Low Risk,1.0,0.0,0.0,commute time mins = 52
+18313,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; avg sleep hours per day = 5.5
+11055,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; mental health score = 3
+17511,Low Risk,1.0,0.0,0.0,no single dominant driver
+18481,High Risk,0.0,0.0,1.0,avg work hours per day = 12.32; stress level = 7; mental health score = 4
+16828,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.29; avg sleep hours per day = 6.39; avg exercise hours per day = 0
+15073,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.42; physical health score = 5; social time hours = 0.84
+11430,Low Risk,1.0,0.0,0.0,no single dominant driver
+19380,Low Risk,1.0,0.0,0.0,social time hours = 0.85; avg exercise hours per day = 0.19
+16746,High Risk,0.0,0.0,1.0,job satisfaction = 5; commute time mins = 75; mental health score = 6
+12355,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.65
+13502,Medium Risk,0.0,0.946,0.054,job satisfaction = 5; avg exercise hours per day = 0.3
+12475,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; avg work hours per day = 10.32
+15570,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 6
+12498,Medium Risk,0.0,1.0,0.0,mental health score = 6; social time hours = 0.71; avg exercise hours per day = 0
+17521,High Risk,0.0,0.0,1.0,stress level = 6; avg work hours per day = 10.63; job satisfaction = 6
+18767,Medium Risk,0.242,0.758,0.0,family time hours = 2.06; social time hours = 0.8
+19387,High Risk,0.0,0.001,0.999,stress level = 6; job satisfaction = 6; avg sleep hours per day = 6.47
+15488,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 8; mental health score = 5
+19008,Low Risk,1.0,0.0,0.0,physical health score = 4; commute time mins = 47
+18913,Medium Risk,0.0,1.0,0.0,mental health score = 6; commute time mins = 54; avg exercise hours per day = 0.17
+18635,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.75; family time hours = 1.28; commute time mins = 49
+19204,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.73; family time hours = 0.48; social time hours = 0.19
+14029,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.64; family time hours = 1.98; social time hours = 0.8
+12147,Medium Risk,0.0,0.993,0.007,job satisfaction = 4; stress level = 6; avg sleep hours per day = 5.78
+10837,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.89; stress level = 7
+10755,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.37; avg sleep hours per day = 6.36; family time hours = 2.09
+18905,Medium Risk,0.0,1.0,0.0,mental health score = 6; physical health score = 5; family time hours = 1.73
+18356,Medium Risk,0.0,1.0,0.0,stress level = 6; physical health score = 5
+14096,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.04
+11828,Medium Risk,0.0,1.0,0.0,mental health score = 5; commute time mins = 56; physical health score = 5
+16843,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg work hours per day = 10.46; family time hours = 2.2
+13424,High Risk,0.0,0.051,0.949,stress level = 6; avg work hours per day = 10.2; mental health score = 6
+16337,Medium Risk,0.0,1.0,0.0,mental health score = 6; avg sleep hours per day = 6.32; social time hours = 0.67
+19456,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.27
+14034,High Risk,0.0,0.0,1.0,avg work hours per day = 12.01; stress level = 7; mental health score = 5
+15287,Low Risk,1.0,0.0,0.0,social time hours = 0.68; avg exercise hours per day = 0.12
+19378,Medium Risk,0.0,1.0,0.0,physical health score = 5
+14514,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; job satisfaction = 6
+15651,High Risk,0.0,0.0,1.0,avg work hours per day = 12.12; stress level = 7; job satisfaction = 5
+19064,Medium Risk,0.0,0.876,0.124,job satisfaction = 5; stress level = 6; mental health score = 5
+17006,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.81; mental health score = 6; commute time mins = 48
+17095,Medium Risk,0.0,1.0,0.0,commute time mins = 61; physical health score = 5; social time hours = 0.73
+15170,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.35; family time hours = 1.74; social time hours = 0.47
+18612,High Risk,0.0,0.0,1.0,stress level = 6; avg sleep hours per day = 5.84; job satisfaction = 6
+12686,High Risk,0.0,0.0,1.0,avg work hours per day = 11.77; job satisfaction = 5; stress level = 6
+19287,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; physical health score = 4; social time hours = 0.59
+18764,Medium Risk,0.0,1.0,0.0,commute time mins = 80; family time hours = 1.15; social time hours = 0.51
+13302,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 5.29; mental health score = 5
+14451,Low Risk,0.999,0.001,0.0,avg exercise hours per day = 0.12
+11952,High Risk,0.0,0.0,1.0,avg work hours per day = 11.63; mental health score = 5; avg sleep hours per day = 6.22
+11821,Low Risk,1.0,0.0,0.0,social time hours = 0.39; avg rest hours per day = 4.62
+17783,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.45; avg exercise hours per day = 0.03
+10327,Low Risk,1.0,0.0,0.0,no single dominant driver
+16637,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 6
+17978,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.49
+10676,Low Risk,1.0,0.0,0.0,no single dominant driver
+11178,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.57; mental health score = 6
+18410,High Risk,0.0,0.0,1.0,avg work hours per day = 12.69; stress level = 7; job satisfaction = 5
+15898,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; commute time mins = 67
+14624,Low Risk,1.0,0.0,0.0,no single dominant driver
+13671,Low Risk,1.0,0.0,0.0,no single dominant driver
+19565,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.19
+10701,Low Risk,1.0,0.0,0.0,social time hours = 0.75
+18367,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.28; family time hours = 2.09; social time hours = 0.54
+16754,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.27
+11529,Medium Risk,0.0,1.0,0.0,family time hours = 1.72; social time hours = 0.52; avg rest hours per day = 3.64
+12490,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.96; avg sleep hours per day = 5.99
+14066,Medium Risk,0.0,1.0,0.0,commute time mins = 69; family time hours = 2.2; social time hours = 0.75
+14686,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+13817,Low Risk,1.0,0.0,0.0,commute time mins = 56
+16922,Low Risk,1.0,0.0,0.0,commute time mins = 62
+15686,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 3; stress level = 8
+14845,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.74; family time hours = 2.12; social time hours = 0.36
+10691,Low Risk,1.0,0.0,0.0,social time hours = 0.69; avg exercise hours per day = 0.29
+18886,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.2; avg sleep hours per day = 5.68
+16517,Low Risk,1.0,0.0,0.0,commute time mins = 54
+17116,High Risk,0.0,0.0,1.0,avg work hours per day = 11.74; job satisfaction = 6; family time hours = 0.99
+17863,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.4
+10228,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.12
+15091,High Risk,0.0,0.0,1.0,mental health score = 5; job satisfaction = 6; physical health score = 5
+13596,Low Risk,0.907,0.093,0.0,avg work hours per day = 10.48; family time hours = 1.86; social time hours = 0.76
+13665,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.17
+13804,High Risk,0.0,0.0,1.0,job satisfaction = 3; mental health score = 4; stress level = 6
+18294,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg sleep hours per day = 6.08
+13149,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; physical health score = 5
+15050,High Risk,0.0,0.002,0.998,job satisfaction = 4; stress level = 6; avg exercise hours per day = 0.28
+15259,Low Risk,1.0,0.0,0.0,commute time mins = 48; avg exercise hours per day = 0.08
+16733,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+13705,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+18993,High Risk,0.0,0.0,1.0,avg work hours per day = 11.71; stress level = 6; family time hours = 1.44
+19478,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 5; avg work hours per day = 10.5
+10617,Low Risk,1.0,0.0,0.0,commute time mins = 56
+19475,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.33
+17938,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.22
+11102,Medium Risk,0.0,1.0,0.0,physical health score = 5; commute time mins = 52; social time hours = 0.75
+11016,Medium Risk,0.0,0.752,0.248,avg work hours per day = 11.07; job satisfaction = 6; physical health score = 5
+17438,Medium Risk,0.0,1.0,0.0,physical health score = 3; mental health score = 6; social time hours = 0.84
+15645,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.5; social time hours = 0.7; avg rest hours per day = 5.3
+16859,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+17640,Low Risk,1.0,0.0,0.0,social time hours = 0.8; avg exercise hours per day = 0.19
+17866,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.03
+10367,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.31
+13383,Low Risk,0.826,0.174,0.0,commute time mins = 53; avg exercise hours per day = 0.22
+10275,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 72; physical health score = 5
+12810,Medium Risk,0.001,0.999,0.0,commute time mins = 57; avg exercise hours per day = 0.04
+11921,Medium Risk,0.0,0.997,0.003,job satisfaction = 5; mental health score = 6; family time hours = 1.87
+10777,Low Risk,1.0,0.0,0.0,no single dominant driver
+18186,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.35; avg exercise hours per day = 0.05
+13120,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; commute time mins = 53; avg exercise hours per day = 0.26
+12922,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.88; mental health score = 6; family time hours = 1.66
+19040,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+17026,Low Risk,1.0,0.0,0.0,no single dominant driver
+11501,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.04; physical health score = 4; family time hours = 1.5
+15874,High Risk,0.0,0.0,1.0,avg work hours per day = 12.46; stress level = 7; job satisfaction = 5
+10085,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.21; social time hours = 0.78
+12335,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.24; commute time mins = 59; family time hours = 1.89
+13480,Low Risk,1.0,0.0,0.0,job satisfaction = 6; physical health score = 5; avg exercise hours per day = 0.13
+12003,Medium Risk,0.0,1.0,0.0,stress level = 6; social time hours = 0.85
+12249,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.2; social time hours = 0.6
+10490,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.37; commute time mins = 53; social time hours = 0.66
+14562,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.59; avg sleep hours per day = 6.45; family time hours = 1.97
+15097,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 12; mental health score = 4
+10781,High Risk,0.0,0.0,1.0,mental health score = 1; job satisfaction = 5; avg sleep hours per day = 5.41
+18146,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.13
+17523,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.45; job satisfaction = 6; commute time mins = 58
+10855,Low Risk,1.0,0.0,0.0,no single dominant driver
+12346,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0.09
+12296,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5
+16341,Low Risk,0.98,0.02,0.0,family time hours = 1.4; commute time mins = 54; social time hours = 0.72
+16101,Low Risk,1.0,0.0,0.0,no single dominant driver
+11125,Low Risk,1.0,0.0,0.0,commute time mins = 65; physical health score = 5
+13459,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+14031,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.07
+12736,Low Risk,1.0,0.0,0.0,social time hours = 0.81
+17660,Low Risk,1.0,0.0,0.0,social time hours = 0.8; avg exercise hours per day = 0.23
+16074,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.12; commute time mins = 53; physical health score = 5
+10484,High Risk,0.0,0.0,1.0,avg work hours per day = 11.54; job satisfaction = 5; mental health score = 5
+16747,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; commute time mins = 76; family time hours = 2.03
+14168,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.88; physical health score = 4
+13335,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 14
+13190,Low Risk,1.0,0.0,0.0,no single dominant driver
+15339,Low Risk,1.0,0.0,0.0,no single dominant driver
+17531,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.43; job satisfaction = 6; avg sleep hours per day = 6.14
+15135,Low Risk,1.0,0.0,0.0,social time hours = 0.74
+16156,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.35; physical health score = 5
+12969,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+19793,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 6.31; commute time mins = 54
+12801,Medium Risk,0.102,0.898,0.0,avg sleep hours per day = 6.44
+19269,Low Risk,1.0,0.0,0.0,avg work hours per day = 11.62; family time hours = 0.59; social time hours = 0.28
+10495,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.41
+14566,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; avg sleep hours per day = 6.31
+12590,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.97; family time hours = 1.34; physical health score = 5
+12546,High Risk,0.0,0.118,0.882,job satisfaction = 5; mental health score = 6; physical health score = 5
+10193,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.52; avg rest hours per day = 5.33
+11531,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; family time hours = 1.95; avg rest hours per day = 5.34
+11417,Low Risk,1.0,0.0,0.0,family time hours = 1.59; social time hours = 0.78; avg rest hours per day = 4.94
+15641,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.29
+16816,Low Risk,1.0,0.0,0.0,job satisfaction = 6; commute time mins = 75
+11472,Low Risk,1.0,0.0,0.0,no single dominant driver
+10244,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.26
+15484,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 5; physical health score = 5
+12508,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.46
+18701,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 6.53; avg exercise hours per day = 0
+10318,High Risk,0.0,0.0,1.0,avg work hours per day = 12.01; stress level = 7; job satisfaction = 5
+19421,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.14
+18585,Low Risk,1.0,0.0,0.0,no single dominant driver
+10373,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.33
+14384,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+19680,Low Risk,1.0,0.0,0.0,family time hours = 2.12
+12017,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.96; job satisfaction = 6; physical health score = 5
+13951,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.23; family time hours = 1.23; commute time mins = 47
+17515,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.39; family time hours = 1.93; avg rest hours per day = 4.93
+12329,Low Risk,1.0,0.0,0.0,commute time mins = 66; avg exercise hours per day = 0.3
+11612,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.28; stress level = 6
+13945,Low Risk,1.0,0.0,0.0,no single dominant driver
+12539,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.07; stress level = 7
+17767,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.46; family time hours = 2.02; avg exercise hours per day = 0.28
+10357,High Risk,0.0,0.0,1.0,avg work hours per day = 11.16; job satisfaction = 6; commute time mins = 60
+17232,High Risk,0.0,0.0,1.0,avg work hours per day = 11.68; stress level = 7; family time hours = 1.27
+13490,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; physical health score = 5
+19385,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6
+19282,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.66; mental health score = 6
+11776,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.25
+13182,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+19845,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.99; stress level = 7
+15016,Low Risk,1.0,0.0,0.0,commute time mins = 49
+16526,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.2; mental health score = 6
+19371,Medium Risk,0.0,1.0,0.0,family time hours = 1.5; commute time mins = 53; social time hours = 0.54
+11605,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 4
+16099,Medium Risk,0.016,0.984,0.0,avg work hours per day = 11.37; family time hours = 1.07; avg rest hours per day = 3.57
+18875,Low Risk,1.0,0.0,0.0,commute time mins = 80
+17540,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.34
+13536,Low Risk,1.0,0.0,0.0,social time hours = 0.76
+19540,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.59; avg rest hours per day = 5.4
+17744,Medium Risk,0.0,1.0,0.0,avg rest hours per day = 4.76
+12430,Low Risk,1.0,0.0,0.0,no single dominant driver
+17892,Low Risk,1.0,0.0,0.0,no single dominant driver
+13433,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.14; mental health score = 6
+11713,Low Risk,1.0,0.0,0.0,mental health score = 6; physical health score = 5
+18980,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+10991,High Risk,0.0,0.155,0.845,avg work hours per day = 10.93; job satisfaction = 6; avg sleep hours per day = 6.05
+16507,Medium Risk,0.0,1.0,0.0,physical health score = 5; avg exercise hours per day = 0.15
+13319,Medium Risk,0.0,0.953,0.047,avg work hours per day = 13.11; job satisfaction = 6; family time hours = 0.85
+19041,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.15; commute time mins = 55; family time hours = 1.75
+19247,Low Risk,1.0,0.0,0.0,no single dominant driver
+16667,Low Risk,1.0,0.0,0.0,mental health score = 6; avg exercise hours per day = 0.17
+11087,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 4; stress level = 7
+14259,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+14320,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.3
+17025,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.85; avg exercise hours per day = 0.28
+11484,Low Risk,1.0,0.0,0.0,physical health score = 4; avg sleep hours per day = 6.36
+13410,Low Risk,1.0,0.0,0.0,social time hours = 0.81
+17694,Low Risk,1.0,0.0,0.0,no single dominant driver
+12586,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.38; commute time mins = 63; family time hours = 2.09
+16212,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg sleep hours per day = 5.32
+13963,Low Risk,1.0,0.0,0.0,commute time mins = 60; avg rest hours per day = 5.03
+17341,Medium Risk,0.0,1.0,0.0,stress level = 6; avg exercise hours per day = 0.26
+12263,Low Risk,1.0,0.0,0.0,family time hours = 1.59; social time hours = 0.81; avg rest hours per day = 4.87
+14547,Medium Risk,0.0,1.0,0.0,commute time mins = 65; family time hours = 1.69; avg rest hours per day = 4.93
+19207,Low Risk,1.0,0.0,0.0,no single dominant driver
+11735,Low Risk,1.0,0.0,0.0,commute time mins = 56; family time hours = 1.83; social time hours = 0.48
+17131,High Risk,0.0,0.0,1.0,avg work hours per day = 11.79; avg sleep hours per day = 4.7; job satisfaction = 5
+19553,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; social time hours = 0.48
+13783,Medium Risk,0.0,0.995,0.005,avg work hours per day = 11.01; family time hours = 1.71; commute time mins = 48
+11111,Low Risk,1.0,0.0,0.0,family time hours = 2.02; social time hours = 0.47; avg rest hours per day = 4.21
+11468,Medium Risk,0.0,1.0,0.0,job satisfaction = 4; mental health score = 6
+17336,Medium Risk,0.302,0.698,0.0,job satisfaction = 6; avg exercise hours per day = 0.27
+11643,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.34
+11672,High Risk,0.0,0.0,1.0,avg work hours per day = 13.7; stress level = 8; job satisfaction = 4
+13214,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; family time hours = 1.22
+19966,Low Risk,1.0,0.0,0.0,commute time mins = 80
+19796,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 60; physical health score = 5
+11558,Low Risk,1.0,0.0,0.0,physical health score = 5
+12247,Low Risk,1.0,0.0,0.0,commute time mins = 57; avg sleep hours per day = 6.49; avg exercise hours per day = 0.23
+11778,Low Risk,0.845,0.155,0.0,avg exercise hours per day = 0.18
+11563,Low Risk,1.0,0.0,0.0,no single dominant driver
+11386,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.55
+19787,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg work hours per day = 11.19; family time hours = 2.18
+11139,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.82; job satisfaction = 6; social time hours = 0.65
+11883,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 3; stress level = 9
+17873,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.21; job satisfaction = 6; avg sleep hours per day = 6.04
+10603,Low Risk,1.0,0.0,0.0,commute time mins = 55; avg exercise hours per day = 0.26
+14641,High Risk,0.0,0.0,1.0,job satisfaction = 4; mental health score = 4; stress level = 6
+11642,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.45; physical health score = 5
+19881,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.58; commute time mins = 49
+12859,Medium Risk,0.0,1.0,0.0,job satisfaction = 4
+12512,Medium Risk,0.0,1.0,0.0,no single dominant driver
+12389,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.75
+14212,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.97; family time hours = 1.75; social time hours = 0.7
+16880,Low Risk,1.0,0.0,0.0,family time hours = 1.57; avg rest hours per day = 5.03
+19995,Low Risk,0.999,0.001,0.0,avg sleep hours per day = 6.48; physical health score = 5
+16491,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg work hours per day = 11; avg rest hours per day = 5.15
+16808,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.41; avg exercise hours per day = 0.26
+17738,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.85; avg exercise hours per day = 0.25
+19772,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.18
+10743,Low Risk,1.0,0.0,0.0,no single dominant driver
+18792,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 10.92; job satisfaction = 6
+10182,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.69; mental health score = 6; physical health score = 5
+12502,High Risk,0.0,0.002,0.998,stress level = 6; job satisfaction = 6; mental health score = 6
+10046,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; mental health score = 1
+14404,Low Risk,1.0,0.0,0.0,no single dominant driver
+19433,Low Risk,0.943,0.057,0.0,commute time mins = 55; avg rest hours per day = 5.12
+17739,Low Risk,1.0,0.0,0.0,commute time mins = 58
+12652,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.54; physical health score = 5; avg exercise hours per day = 0.29
+17357,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.29; stress level = 6; family time hours = 1.12
+10990,Low Risk,0.889,0.111,0.0,no single dominant driver
+17796,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg work hours per day = 11.33
+13368,Low Risk,1.0,0.0,0.0,family time hours = 1.95; social time hours = 0.57
+13343,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.19
+12559,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg exercise hours per day = 0
+10413,Low Risk,0.98,0.02,0.0,avg rest hours per day = 5.13
+10390,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 5; avg sleep hours per day = 6.13
+11192,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.86
+14389,Low Risk,1.0,0.0,0.0,stress level = 6; avg sleep hours per day = 6.15; avg exercise hours per day = 0.12
+18950,Medium Risk,0.0,1.0,0.0,avg work hours per day = 12.24; stress level = 6; family time hours = 1.11
+18174,Low Risk,1.0,0.0,0.0,family time hours = 2.07; social time hours = 0.84; avg rest hours per day = 4.95
+12485,Low Risk,1.0,0.0,0.0,commute time mins = 60
+17135,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 6
+16632,Low Risk,1.0,0.0,0.0,no single dominant driver
+13513,Low Risk,0.999,0.001,0.0,avg work hours per day = 10.23; avg exercise hours per day = 0.09
+10447,High Risk,0.0,0.0,1.0,avg work hours per day = 11.3; avg sleep hours per day = 5.61; job satisfaction = 6
+14980,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 62
+14127,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; avg sleep hours per day = 5.65
+19976,Low Risk,1.0,0.0,0.0,commute time mins = 53
+15171,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.75; family time hours = 2.09
+17733,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.3
+16478,Medium Risk,0.0,0.882,0.118,avg work hours per day = 10.54; avg sleep hours per day = 5.75; commute time mins = 63
+19531,Low Risk,1.0,0.0,0.0,family time hours = 1.01; social time hours = 0.48; avg rest hours per day = 3.35
+18779,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.29
+13998,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; mental health score = 3
+10265,High Risk,0.0,0.0,1.0,avg work hours per day = 12.9; stress level = 7; job satisfaction = 5
+15124,Medium Risk,0.0,0.996,0.004,avg work hours per day = 10.84; mental health score = 6; commute time mins = 64
+17614,Medium Risk,0.0,1.0,0.0,commute time mins = 63; physical health score = 5; avg sleep hours per day = 6.55
+11421,High Risk,0.0,0.0,1.0,avg work hours per day = 12.55; stress level = 7; job satisfaction = 6
+11242,Low Risk,1.0,0.0,0.0,no single dominant driver
+11005,Low Risk,1.0,0.0,0.0,commute time mins = 61
+10061,High Risk,0.0,0.0,1.0,stress level = 6; avg work hours per day = 10.69; mental health score = 5
+10771,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0.23
+19138,Low Risk,1.0,0.0,0.0,social time hours = 0.7; avg rest hours per day = 4.54
+19632,Low Risk,1.0,0.0,0.0,social time hours = 0.61
+15500,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0
+15712,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.2
+12792,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.76; family time hours = 1.86; social time hours = 0.29
+13064,High Risk,0.0,0.0,1.0,avg work hours per day = 11.57; job satisfaction = 5; avg sleep hours per day = 6.05
+12769,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.84; family time hours = 1.14; physical health score = 5
+10852,Low Risk,1.0,0.0,0.0,social time hours = 0.83
+10653,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 5; job satisfaction = 6
+14957,High Risk,0.0,0.0,1.0,stress level = 9; job satisfaction = 5; mental health score = 4
+19837,High Risk,0.0,0.0,1.0,avg work hours per day = 12.12; mental health score = 5; family time hours = 1.02
+14580,High Risk,0.0,0.0,1.0,avg work hours per day = 12.6; job satisfaction = 4; stress level = 6
+19214,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.54; family time hours = 2.09; avg rest hours per day = 4.36
+13349,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; commute time mins = 50
+18269,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.17; avg exercise hours per day = 0.24
+18922,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.45
+13530,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 10.93; stress level = 6
+17766,Low Risk,1.0,0.0,0.0,no single dominant driver
+12616,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; avg sleep hours per day = 5.8
+12367,Low Risk,1.0,0.0,0.0,stress level = 6; avg exercise hours per day = 0.12
+15354,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0.21
+16790,Low Risk,1.0,0.0,0.0,no single dominant driver
+11795,Low Risk,1.0,0.0,0.0,commute time mins = 54; physical health score = 5; social time hours = 0.61
+13202,Low Risk,1.0,0.0,0.0,no single dominant driver
+18747,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.37; physical health score = 5
+17182,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.49; commute time mins = 48
+11385,Low Risk,1.0,0.0,0.0,commute time mins = 54; social time hours = 0.83
+11036,Medium Risk,0.002,0.998,0.0,avg sleep hours per day = 6.27
+14699,Low Risk,1.0,0.0,0.0,social time hours = 0.7; avg exercise hours per day = 0.13
+16573,Low Risk,1.0,0.0,0.0,social time hours = 0.69
+11358,Medium Risk,0.0,1.0,0.0,commute time mins = 56
+11305,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.96
+14305,Low Risk,1.0,0.0,0.0,commute time mins = 97; avg exercise hours per day = 0.19
+19196,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.45; commute time mins = 57; family time hours = 1.21
+14300,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg work hours per day = 10.25; family time hours = 2.04
+11348,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.96; mental health score = 6; social time hours = 0.6
+14827,Low Risk,1.0,0.0,0.0,no single dominant driver
+11512,Low Risk,1.0,0.0,0.0,no single dominant driver
+15546,Low Risk,1.0,0.0,0.0,commute time mins = 53; social time hours = 0.71
+19015,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.37; commute time mins = 52
+13284,Medium Risk,0.0,1.0,0.0,no single dominant driver
+15064,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.39; avg sleep hours per day = 6.36; avg exercise hours per day = 0.18
+12264,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.71; job satisfaction = 6
+11422,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 57; avg exercise hours per day = 0.19
+14926,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 11; mental health score = 5
+17665,Low Risk,1.0,0.0,0.0,commute time mins = 56
+12273,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; mental health score = 6
+10163,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.98; mental health score = 5
+12185,Low Risk,1.0,0.0,0.0,commute time mins = 79; avg rest hours per day = 5.14
+10622,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.16
+19360,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.13
+17603,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+12931,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.46; job satisfaction = 6; family time hours = 2.03
+15623,Medium Risk,0.007,0.993,0.0,no single dominant driver
+18125,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5
+12458,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 14
+19499,Low Risk,1.0,0.0,0.0,social time hours = 0.84
+16400,Medium Risk,0.0,1.0,0.0,commute time mins = 54
+10529,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 49; family time hours = 2.11
+16527,Low Risk,1.0,0.0,0.0,commute time mins = 94
+16946,Low Risk,1.0,0.0,0.0,commute time mins = 70
+12128,Low Risk,1.0,0.0,0.0,family time hours = 1.7; avg rest hours per day = 4.32
+19459,Medium Risk,0.011,0.989,0.0,avg work hours per day = 11.68; family time hours = 1.58; social time hours = 0.39
+12026,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.09
+14826,Low Risk,1.0,0.0,0.0,no single dominant driver
+11527,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.39; avg rest hours per day = 5.01
+15948,Low Risk,1.0,0.0,0.0,commute time mins = 68; mental health score = 6; avg exercise hours per day = 0.05
+11247,Low Risk,0.979,0.021,0.0,avg work hours per day = 10.36; avg sleep hours per day = 6.54
+15655,Low Risk,1.0,0.0,0.0,no single dominant driver
+15969,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.1
+12700,Low Risk,1.0,0.0,0.0,stress level = 6; job satisfaction = 6; social time hours = 0.73
+13143,Medium Risk,0.0,1.0,0.0,job satisfaction = 6
+15425,Low Risk,1.0,0.0,0.0,commute time mins = 51; avg exercise hours per day = 0.08
+14425,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; avg sleep hours per day = 5.09
+10396,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; family time hours = 2.09
+19892,High Risk,0.0,0.0,1.0,avg work hours per day = 12.01; job satisfaction = 5; stress level = 6
+12542,Low Risk,1.0,0.0,0.0,commute time mins = 54
+19333,Low Risk,1.0,0.0,0.0,commute time mins = 62
+11295,High Risk,0.0,0.0,1.0,avg work hours per day = 11.63; job satisfaction = 6; family time hours = 1.19
+11900,Low Risk,1.0,0.0,0.0,no single dominant driver
+19920,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.34
+14133,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.75
+12591,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 9; avg work hours per day = 11.5
+15555,High Risk,0.0,0.0,1.0,job satisfaction = 3; social time hours = 0.73; avg exercise hours per day = 0.19
+19840,Low Risk,1.0,0.0,0.0,commute time mins = 54; social time hours = 0.58
+14794,High Risk,0.0,0.0,1.0,avg work hours per day = 10.71; mental health score = 6; physical health score = 4
+14414,Low Risk,1.0,0.0,0.0,physical health score = 5; avg exercise hours per day = 0.26
+13904,Medium Risk,0.0,1.0,0.0,stress level = 6; avg exercise hours per day = 0.08
+13607,Low Risk,1.0,0.0,0.0,social time hours = 0.68
+13068,Medium Risk,0.0,1.0,0.0,stress level = 7; avg work hours per day = 10.72; commute time mins = 78
+16980,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.44; avg exercise hours per day = 0.25
+14251,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.37; avg sleep hours per day = 5.91
+13232,Medium Risk,0.0,1.0,0.0,family time hours = 2.15; social time hours = 0.84; avg exercise hours per day = 0.02
+15131,Low Risk,1.0,0.0,0.0,social time hours = 0.86
+15490,Low Risk,1.0,0.0,0.0,physical health score = 5
+15998,Low Risk,1.0,0.0,0.0,no single dominant driver
+16470,High Risk,0.0,0.0,1.0,avg work hours per day = 12.22; job satisfaction = 5; avg sleep hours per day = 6.03
+10017,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+12328,Low Risk,1.0,0.0,0.0,commute time mins = 60; family time hours = 1.92
+18746,Medium Risk,0.0,1.0,0.0,family time hours = 1.94; social time hours = 0.85
+17096,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.16
+14819,Low Risk,1.0,0.0,0.0,social time hours = 0.61
+15424,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.16
+10832,Medium Risk,0.159,0.841,0.0,avg exercise hours per day = 0
+18023,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.19
+11072,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.08; commute time mins = 51; social time hours = 0.81
+10467,Medium Risk,0.0,1.0,0.0,stress level = 6; physical health score = 5
+12524,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; commute time mins = 66
+19273,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.45; job satisfaction = 6; family time hours = 1.89
+11075,Low Risk,1.0,0.0,0.0,social time hours = 0.72; avg exercise hours per day = 0.02
+10867,Low Risk,1.0,0.0,0.0,no single dominant driver
+16103,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.59
+15206,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.28
+16450,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.29
+17331,Medium Risk,0.0,1.0,0.0,mental health score = 5; avg sleep hours per day = 6.41; avg exercise hours per day = 0.07
+11679,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 79; social time hours = 0.57
+11657,Low Risk,1.0,0.0,0.0,commute time mins = 50; avg exercise hours per day = 0.25
+14313,High Risk,0.0,0.0,1.0,avg work hours per day = 11.61; job satisfaction = 5; mental health score = 5
+12395,Low Risk,1.0,0.0,0.0,physical health score = 5
+13646,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.03; mental health score = 6; physical health score = 5
+19414,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.17; family time hours = 1.16; social time hours = 0.77
+17690,Low Risk,1.0,0.0,0.0,commute time mins = 47; avg exercise hours per day = 0.09
+14966,High Risk,0.0,0.0,1.0,avg work hours per day = 11.03; stress level = 6; job satisfaction = 6
+17712,Medium Risk,0.0,1.0,0.0,physical health score = 5; social time hours = 0.79
+10428,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.54
+13366,Medium Risk,0.0,1.0,0.0,family time hours = 2.2; social time hours = 0.81
+12813,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.16
+19427,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 5.97
+14494,Medium Risk,0.232,0.768,0.0,commute time mins = 63; avg sleep hours per day = 6.43
+14470,Medium Risk,0.0,1.0,0.0,mental health score = 6; physical health score = 5
+18154,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 12.44; mental health score = 4
+17123,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 57; social time hours = 0.81
+17519,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+15243,Medium Risk,0.0,1.0,0.0,stress level = 6; social time hours = 0.78
+16821,Low Risk,1.0,0.0,0.0,no single dominant driver
+16225,Low Risk,1.0,0.0,0.0,social time hours = 0.81
+19007,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 5.74; mental health score = 6
+15917,High Risk,0.0,0.0,1.0,avg work hours per day = 12.25; stress level = 7; job satisfaction = 6
+16879,Low Risk,1.0,0.0,0.0,no single dominant driver
+18167,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.49; commute time mins = 57; family time hours = 1.46
+13030,Low Risk,1.0,0.0,0.0,family time hours = 1.87; avg rest hours per day = 4.33
+16765,Medium Risk,0.0,1.0,0.0,commute time mins = 66; social time hours = 0.85
+13985,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; stress level = 6; commute time mins = 47
+10483,Low Risk,1.0,0.0,0.0,commute time mins = 48
+19863,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6; avg sleep hours per day = 6.35
+10737,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.04
+19524,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; physical health score = 5
+13234,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 4
+13751,Low Risk,1.0,0.0,0.0,physical health score = 5; social time hours = 0.7
+12291,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 6; job satisfaction = 6
+10728,Low Risk,1.0,0.0,0.0,social time hours = 0.63; avg exercise hours per day = 0.14
+17340,Medium Risk,0.0,1.0,0.0,mental health score = 6; commute time mins = 57; physical health score = 5
+14276,High Risk,0.0,0.004,0.996,avg work hours per day = 10.98; avg sleep hours per day = 5.69; commute time mins = 73
+13767,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.29; mental health score = 6
+14228,Low Risk,1.0,0.0,0.0,commute time mins = 47
+19751,High Risk,0.0,0.0,1.0,avg work hours per day = 11.64; stress level = 7; mental health score = 5
+13606,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.88; stress level = 6
+10116,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.29
+14785,Low Risk,1.0,0.0,0.0,family time hours = 2.18
+18196,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; family time hours = 1.88; social time hours = 0.62
+10489,Low Risk,0.978,0.022,0.0,no single dominant driver
+18109,Medium Risk,0.0,1.0,0.0,family time hours = 1.97; avg rest hours per day = 5.24
+17206,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.75; family time hours = 1.8; commute time mins = 48
+16538,High Risk,0.0,0.0,1.0,avg work hours per day = 11.1; mental health score = 5; job satisfaction = 6
+19803,Low Risk,1.0,0.0,0.0,commute time mins = 57
+13110,Medium Risk,0.0,1.0,0.0,no single dominant driver
+18347,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.14; stress level = 6
+14712,Low Risk,1.0,0.0,0.0,commute time mins = 66; social time hours = 0.57
+10957,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6
+16113,Low Risk,1.0,0.0,0.0,no single dominant driver
+17731,Medium Risk,0.0,1.0,0.0,social time hours = 0.83; avg exercise hours per day = 0
+14614,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.28
+11895,Low Risk,1.0,0.0,0.0,no single dominant driver
+11416,Low Risk,1.0,0.0,0.0,social time hours = 0.61
+11927,Medium Risk,0.0,1.0,0.0,mental health score = 6; commute time mins = 63; avg exercise hours per day = 0.08
+16617,High Risk,0.0,0.0,1.0,avg work hours per day = 11.41; avg sleep hours per day = 5.91; mental health score = 6
+16415,Low Risk,1.0,0.0,0.0,commute time mins = 48; family time hours = 2.08
+18159,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; physical health score = 5
+16020,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 5; job satisfaction = 6
+13413,Low Risk,1.0,0.0,0.0,no single dominant driver
+13577,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.9; stress level = 6; family time hours = 0.69
+15640,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.21
+18054,Medium Risk,0.0,1.0,0.0,no single dominant driver
+19617,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.31; commute time mins = 48
+14332,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.63; family time hours = 2.18; social time hours = 0.39
+15933,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; avg work hours per day = 13.2
+18156,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+19465,High Risk,0.0,0.0,1.0,avg work hours per day = 10.83; stress level = 6; job satisfaction = 6
+16434,Low Risk,1.0,0.0,0.0,no single dominant driver
+19822,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 6; mental health score = 6
+13406,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.24; avg sleep hours per day = 5.43
+19257,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.06
+19397,High Risk,0.0,0.128,0.872,job satisfaction = 4; stress level = 7; family time hours = 1.85
+15629,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.74; family time hours = 1.83; social time hours = 0.69
+17018,High Risk,0.0,0.0,1.0,job satisfaction = 1; mental health score = 3; stress level = 7
+14408,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.56; avg sleep hours per day = 6.32; family time hours = 2.05
+14976,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.04; social time hours = 0.75; avg rest hours per day = 5.09
+18085,Low Risk,1.0,0.0,0.0,no single dominant driver
+14596,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.61; avg sleep hours per day = 6.33
+19141,High Risk,0.0,0.0,1.0,job satisfaction = 2; avg work hours per day = 14; mental health score = 2
+11511,Low Risk,1.0,0.0,0.0,social time hours = 0.64
+10652,High Risk,0.0,0.0,1.0,stress level = 8; mental health score = 5; avg sleep hours per day = 6.43
+11687,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 5.97; commute time mins = 55
+19522,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.25
+11712,Low Risk,1.0,0.0,0.0,no single dominant driver
+15965,Low Risk,1.0,0.0,0.0,no single dominant driver
+12938,Low Risk,1.0,0.0,0.0,family time hours = 1.78
+11106,Low Risk,1.0,0.0,0.0,commute time mins = 55; social time hours = 0.59
+16662,Medium Risk,0.0,1.0,0.0,physical health score = 5; social time hours = 0.55; avg rest hours per day = 5.33
+19887,Low Risk,1.0,0.0,0.0,social time hours = 0.73
+11632,High Risk,0.0,0.0,1.0,avg work hours per day = 10.9; stress level = 6; job satisfaction = 6
+18657,Low Risk,1.0,0.0,0.0,social time hours = 0.65
+16097,Medium Risk,0.0,1.0,0.0,no single dominant driver
+16006,Medium Risk,0.0,1.0,0.0,no single dominant driver
+16949,Low Risk,1.0,0.0,0.0,commute time mins = 68; avg sleep hours per day = 6.49; family time hours = 1.78
+19758,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 56; avg rest hours per day = 5.22
+17318,High Risk,0.0,0.002,0.998,stress level = 6; commute time mins = 84; avg sleep hours per day = 6.27
+15681,Medium Risk,0.0,1.0,0.0,commute time mins = 59; family time hours = 2.2
+14592,Low Risk,1.0,0.0,0.0,no single dominant driver
+16420,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; avg work hours per day = 11.56
+10518,Low Risk,1.0,0.0,0.0,social time hours = 0.61
+18793,High Risk,0.0,0.001,0.999,stress level = 6; avg work hours per day = 10.23; mental health score = 6
+18642,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.09
+14146,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.2
+12661,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; physical health score = 5
+17297,Low Risk,1.0,0.0,0.0,social time hours = 0.62
+15692,High Risk,0.0,0.0,1.0,avg work hours per day = 11.48; job satisfaction = 5; mental health score = 5
+10342,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.81; avg rest hours per day = 5.33
+15725,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.93; stress level = 6; avg sleep hours per day = 6.28
+18182,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.82; commute time mins = 51
+14415,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; commute time mins = 59
+15100,Low Risk,1.0,0.0,0.0,commute time mins = 49; social time hours = 0.62
+13974,High Risk,0.0,0.016,0.984,job satisfaction = 5; avg sleep hours per day = 5.7; commute time mins = 51
+13759,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.81; commute time mins = 47
+19620,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 5.36; avg work hours per day = 10.62
+19346,Low Risk,1.0,0.0,0.0,no single dominant driver
+18381,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+17967,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; commute time mins = 60
+17064,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 7; job satisfaction = 5
+19019,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg work hours per day = 11.55
+19757,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 4.85; stress level = 6; avg exercise hours per day = 0.34
+14000,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 11.09; job satisfaction = 6
+19028,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.35; mental health score = 5
+14810,Medium Risk,0.0,1.0,0.0,no single dominant driver
+18019,Low Risk,1.0,0.0,0.0,social time hours = 0.51
+16203,Medium Risk,0.071,0.929,0.0,physical health score = 5; social time hours = 0.63
+11363,Low Risk,1.0,0.0,0.0,no single dominant driver
+19271,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.14
+15554,High Risk,0.0,0.0,1.0,avg work hours per day = 13.9; stress level = 9; mental health score = 3
+14516,High Risk,0.0,0.0,1.0,avg work hours per day = 11.82; stress level = 6; avg sleep hours per day = 5.95
+11164,Medium Risk,0.034,0.966,0.0,avg sleep hours per day = 6.53; family time hours = 2.11
+13992,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.1
+18660,Medium Risk,0.001,0.999,0.0,no single dominant driver
+15515,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.79; job satisfaction = 6; commute time mins = 54
+13663,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 8; avg work hours per day = 12.36
+13675,Medium Risk,0.0,1.0,0.0,job satisfaction = 5
+17701,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.45; physical health score = 5
+19815,High Risk,0.0,0.0,1.0,avg work hours per day = 12.18; stress level = 7; mental health score = 5
+19024,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+16026,Low Risk,1.0,0.0,0.0,physical health score = 4; avg exercise hours per day = 0.08
+19298,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 10.9; mental health score = 5
+17269,Medium Risk,0.006,0.994,0.0,stress level = 6
+16089,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 14
+12359,Low Risk,1.0,0.0,0.0,commute time mins = 51
+13219,High Risk,0.0,0.0,1.0,avg work hours per day = 11.44; job satisfaction = 5; stress level = 6
+11655,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 6; avg sleep hours per day = 6.15
+17700,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; job satisfaction = 6
+16131,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 6
+15459,Low Risk,1.0,0.0,0.0,social time hours = 0.77
+16230,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.53; family time hours = 2.06; social time hours = 0.84
+18777,Low Risk,1.0,0.0,0.0,social time hours = 0.69; avg exercise hours per day = 0.03
+15253,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.6; commute time mins = 80; family time hours = 1.58
+11753,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.39; commute time mins = 50; avg rest hours per day = 5.38
+16656,High Risk,0.0,0.0,1.0,avg work hours per day = 12.66; stress level = 8; job satisfaction = 4
+19133,Medium Risk,0.0,0.998,0.002,avg work hours per day = 10.75; stress level = 6; job satisfaction = 6
+15380,Medium Risk,0.0,1.0,0.0,commute time mins = 53; social time hours = 0.7
+17666,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; social time hours = 0.7
+19994,Low Risk,0.994,0.006,0.0,commute time mins = 55; family time hours = 1.92; social time hours = 0.34
+17300,Low Risk,1.0,0.0,0.0,no single dominant driver
+15200,Low Risk,1.0,0.0,0.0,no single dominant driver
+14530,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.18
+16533,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.27
+19511,Low Risk,1.0,0.0,0.0,commute time mins = 63
+15816,High Risk,0.0,0.0,1.0,avg work hours per day = 12.21; stress level = 7; mental health score = 5
+12027,Low Risk,0.996,0.004,0.0,commute time mins = 49; avg exercise hours per day = 0.34
+19693,Low Risk,1.0,0.0,0.0,no single dominant driver
+12608,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; physical health score = 5
+14671,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.55; mental health score = 6
+10406,Medium Risk,0.0,0.932,0.068,physical health score = 3; avg sleep hours per day = 6.02; commute time mins = 66
+15906,Low Risk,1.0,0.0,0.0,no single dominant driver
+16785,High Risk,0.0,0.0,1.0,avg work hours per day = 12.28; commute time mins = 76; job satisfaction = 6
+14179,High Risk,0.0,0.0,1.0,avg work hours per day = 13.77; stress level = 7; family time hours = 0.67
+18602,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.95; commute time mins = 60; family time hours = 1.32
+18600,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; mental health score = 5
+19218,High Risk,0.0,0.003,0.997,stress level = 7; avg sleep hours per day = 4.79; commute time mins = 53
+10486,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.2; commute time mins = 51
+18623,Low Risk,1.0,0.0,0.0,family time hours = 1.86; social time hours = 0.61; avg exercise hours per day = 0.23
+19006,Low Risk,1.0,0.0,0.0,no single dominant driver
+13297,High Risk,0.0,0.0,1.0,job satisfaction = 4; mental health score = 5; avg sleep hours per day = 6.08
+12008,Medium Risk,0.0,1.0,0.0,commute time mins = 78; social time hours = 0.53; avg rest hours per day = 4.9
+14620,Low Risk,1.0,0.0,0.0,no single dominant driver
+11609,Low Risk,1.0,0.0,0.0,no single dominant driver
+15202,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.38; family time hours = 2.12
+19811,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.4; physical health score = 5
+10298,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.65; physical health score = 5; avg exercise hours per day = 0.19
+12393,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 50
+10514,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.56; job satisfaction = 6; avg sleep hours per day = 5.96
+16704,Low Risk,1.0,0.0,0.0,commute time mins = 47; social time hours = 0.58
+17453,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.1
+10818,High Risk,0.0,0.0,1.0,avg work hours per day = 12.64; stress level = 6; job satisfaction = 6
+15469,Low Risk,0.78,0.22,0.0,commute time mins = 55; family time hours = 2.19; social time hours = 0.75
+17146,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg sleep hours per day = 6.23
+19021,Medium Risk,0.0,1.0,0.0,stress level = 6; avg sleep hours per day = 6.01; commute time mins = 56
+13834,Medium Risk,0.0,1.0,0.0,commute time mins = 95; family time hours = 1.9; social time hours = 0.48
+11755,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.92; stress level = 6; family time hours = 1.84
+18164,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.19
+14184,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.46; physical health score = 5
+19568,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.71; job satisfaction = 6
+18567,Medium Risk,0.0,1.0,0.0,mental health score = 5; avg exercise hours per day = 0.15
+19119,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 4; avg sleep hours per day = 5.37
+13563,Medium Risk,0.001,0.999,0.0,job satisfaction = 6
+17459,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; physical health score = 5; avg exercise hours per day = 0.03
+13858,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.5; social time hours = 0.84
+11404,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.39; avg exercise hours per day = 0.11
+11939,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+15242,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.58; job satisfaction = 6; physical health score = 3
+11522,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.1; avg exercise hours per day = 0.14
+16753,Low Risk,1.0,0.0,0.0,commute time mins = 54
+12045,High Risk,0.0,0.0,1.0,stress level = 7; commute time mins = 82; job satisfaction = 6
+14482,Low Risk,1.0,0.0,0.0,commute time mins = 48
+17970,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.86; job satisfaction = 6; family time hours = 1.92
+10575,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.26
+17069,Low Risk,1.0,0.0,0.0,no single dominant driver
+14270,Low Risk,1.0,0.0,0.0,no single dominant driver
+12228,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 14
+16496,Medium Risk,0.0,1.0,0.0,physical health score = 4; avg sleep hours per day = 6.55; avg exercise hours per day = 0.03
+18240,Medium Risk,0.0,1.0,0.0,physical health score = 5
+13192,Low Risk,1.0,0.0,0.0,stress level = 6; avg exercise hours per day = 0.01
+12580,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 70; avg exercise hours per day = 0.34
+17053,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.54; family time hours = 1.53; avg rest hours per day = 3.64
+10769,High Risk,0.0,0.0,1.0,avg work hours per day = 10.78; stress level = 6; avg sleep hours per day = 5.95
+12084,Medium Risk,0.0,1.0,0.0,avg exercise hours per day = 0.17
+14554,Low Risk,1.0,0.0,0.0,social time hours = 0.84
+15775,Low Risk,1.0,0.0,0.0,family time hours = 2.06; social time hours = 0.7
+10427,Medium Risk,0.0,1.0,0.0,avg rest hours per day = 5.15
+14843,Low Risk,1.0,0.0,0.0,social time hours = 0.86; avg exercise hours per day = 0.08
+13822,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.24; commute time mins = 72; family time hours = 1.08
+12340,High Risk,0.0,0.0,1.0,job satisfaction = 3; avg work hours per day = 13.38; stress level = 6
+11564,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.27; avg exercise hours per day = 0.2
+14628,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.1
+19584,High Risk,0.0,0.0,1.0,avg work hours per day = 12.95; job satisfaction = 5; stress level = 6
+16727,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.11; avg exercise hours per day = 0.27
+12440,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.59
+12949,High Risk,0.0,0.093,0.907,job satisfaction = 5; mental health score = 5; commute time mins = 55
+16241,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.46; avg exercise hours per day = 0.07
+13908,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 7; job satisfaction = 5
+13363,Low Risk,1.0,0.0,0.0,social time hours = 0.84
+13294,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.36
+19859,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.01; family time hours = 2.16; avg rest hours per day = 4.35
+18433,Medium Risk,0.0,1.0,0.0,mental health score = 5; job satisfaction = 6; avg sleep hours per day = 6.22
+19595,Low Risk,1.0,0.0,0.0,commute time mins = 55
+17901,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.13; stress level = 6
+15507,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 63
+12435,Low Risk,1.0,0.0,0.0,social time hours = 0.62; avg exercise hours per day = 0.15
+16627,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.14
+10418,Medium Risk,0.0,1.0,0.0,commute time mins = 47
+17466,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.25
+18336,High Risk,0.0,0.0,1.0,avg work hours per day = 12.68; mental health score = 6; physical health score = 4
+16358,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; avg exercise hours per day = 0.18
+12394,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.08
+17170,Medium Risk,0.0,1.0,0.0,commute time mins = 85; family time hours = 1.54; social time hours = 0.27
+13711,High Risk,0.0,0.0,1.0,avg work hours per day = 13.24; job satisfaction = 4; mental health score = 3
+16078,Low Risk,1.0,0.0,0.0,no single dominant driver
+19158,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.26
+14772,Low Risk,1.0,0.0,0.0,commute time mins = 72
+16187,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; family time hours = 1.16; commute time mins = 48
+10672,Low Risk,0.999,0.001,0.0,avg work hours per day = 10.48
+15945,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.75
+17594,Medium Risk,0.0,1.0,0.0,physical health score = 5; avg exercise hours per day = 0.15
+15369,High Risk,0.0,0.0,1.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 6.48
+17470,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.26; avg rest hours per day = 5.15; avg exercise hours per day = 0.09
+13280,High Risk,0.0,0.441,0.559,avg work hours per day = 11.68; mental health score = 6; commute time mins = 66
+16428,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.46
+12131,Low Risk,1.0,0.0,0.0,physical health score = 5; social time hours = 0.82; avg exercise hours per day = 0.06
+12985,Low Risk,1.0,0.0,0.0,no single dominant driver
+12757,Low Risk,1.0,0.0,0.0,commute time mins = 67; physical health score = 5; avg exercise hours per day = 0.29
+19171,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.21
+10343,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.09
+17204,Low Risk,1.0,0.0,0.0,physical health score = 5; avg sleep hours per day = 6.58
+19874,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.23; family time hours = 1.48; avg rest hours per day = 3.53
+14725,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+10535,Low Risk,1.0,0.0,0.0,commute time mins = 51
+15822,Low Risk,1.0,0.0,0.0,no single dominant driver
+14807,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 8; job satisfaction = 5
+12787,Medium Risk,0.0,1.0,0.0,family time hours = 1.8; social time hours = 0.79
+16554,Low Risk,1.0,0.0,0.0,commute time mins = 48
+18246,Low Risk,1.0,0.0,0.0,no single dominant driver
+18443,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.64; commute time mins = 53; physical health score = 5
+16454,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.22; mental health score = 5
+18856,Low Risk,1.0,0.0,0.0,commute time mins = 77
+10213,Low Risk,1.0,0.0,0.0,social time hours = 0.8
+17563,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 4
+19914,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 87; avg sleep hours per day = 5.9
+12012,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.1
+13605,Low Risk,1.0,0.0,0.0,commute time mins = 73
+13697,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.2
+10426,Low Risk,1.0,0.0,0.0,physical health score = 5
+13793,Medium Risk,0.0,1.0,0.0,stress level = 7; commute time mins = 49; family time hours = 1.92
+18015,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0
+16100,Medium Risk,0.0,1.0,0.0,social time hours = 0.82; avg exercise hours per day = 0.09
+18850,Medium Risk,0.0,1.0,0.0,stress level = 6; mental health score = 5; avg sleep hours per day = 5.89
+19834,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.57; family time hours = 1.32; commute time mins = 48
+11577,High Risk,0.0,0.0,1.0,avg work hours per day = 12.28; job satisfaction = 6; physical health score = 4
+15539,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.12; family time hours = 2.08; social time hours = 0.67
+14873,High Risk,0.0,0.0,1.0,job satisfaction = 1; avg work hours per day = 14; stress level = 9
+13230,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.85
+15804,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.11
+19870,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.26; commute time mins = 53; family time hours = 1.89
+18332,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.18; job satisfaction = 6; family time hours = 2.11
+14891,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.14; social time hours = 0.86; avg exercise hours per day = 0.11
+15862,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.94; avg sleep hours per day = 5.48
+10972,Low Risk,1.0,0.0,0.0,commute time mins = 47; social time hours = 0.86; avg exercise hours per day = 0.05
+17223,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 4; stress level = 7
+13359,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.43; avg exercise hours per day = 0.34
+19194,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 5.9; mental health score = 6
+13441,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.45; avg exercise hours per day = 0.3
+19151,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.22
+19937,High Risk,0.0,0.0,1.0,avg work hours per day = 13.73; stress level = 7; avg sleep hours per day = 5.74
+17432,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 64; avg sleep hours per day = 6.37
+13866,Low Risk,0.782,0.218,0.0,job satisfaction = 6; family time hours = 2.11; avg exercise hours per day = 0.15
+12841,Low Risk,1.0,0.0,0.0,job satisfaction = 6; social time hours = 0.76
+16304,Low Risk,1.0,0.0,0.0,no single dominant driver
+13636,Low Risk,1.0,0.0,0.0,commute time mins = 58
+16711,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; avg sleep hours per day = 4.92
+12370,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; avg work hours per day = 10.58
+10240,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.98; job satisfaction = 6; family time hours = 1.7
+17077,Low Risk,1.0,0.0,0.0,no single dominant driver
+19864,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg exercise hours per day = 0
+13733,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 11.1
+14633,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.23
+12596,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.08
+10093,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; avg work hours per day = 11.55
+16147,Medium Risk,0.0,1.0,0.0,commute time mins = 63
+11128,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.89; family time hours = 0.81; commute time mins = 53
+12444,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 6
+11217,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.75; family time hours = 1.6; avg rest hours per day = 4.13
+18345,Low Risk,0.929,0.071,0.0,job satisfaction = 6; avg sleep hours per day = 6.42
+11149,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 6.23; avg exercise hours per day = 0.03
+10915,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg exercise hours per day = 0.02
+15744,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.78
+19981,High Risk,0.0,0.0,1.0,job satisfaction = 6; avg work hours per day = 10.22; mental health score = 6
+18839,High Risk,0.0,0.0,1.0,avg work hours per day = 14; stress level = 9; job satisfaction = 4
+14895,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.05; avg exercise hours per day = 0.18
+19761,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 6; mental health score = 6
+19655,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 6.04; commute time mins = 68
+12225,Medium Risk,0.0,1.0,0.0,stress level = 7
+17446,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.52
+10787,Low Risk,1.0,0.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.55; avg exercise hours per day = 0.06
+13903,Medium Risk,0.0,1.0,0.0,social time hours = 0.85; avg exercise hours per day = 0.17
+15758,Low Risk,1.0,0.0,0.0,no single dominant driver
+19255,Low Risk,1.0,0.0,0.0,family time hours = 1.54; avg rest hours per day = 5.19
+11985,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 5; avg work hours per day = 10.29
+13102,Low Risk,1.0,0.0,0.0,commute time mins = 55
+13830,High Risk,0.0,0.0,1.0,stress level = 8; mental health score = 3; job satisfaction = 5
+11448,Medium Risk,0.075,0.925,0.0,social time hours = 0.54; avg exercise hours per day = 0.19
+12439,High Risk,0.0,0.0,1.0,job satisfaction = 1; stress level = 10; mental health score = 1
+10790,Medium Risk,0.0,1.0,0.0,physical health score = 3; commute time mins = 58
+13600,Medium Risk,0.0,0.912,0.088,stress level = 7; job satisfaction = 6; mental health score = 6
+12866,Medium Risk,0.0,0.558,0.442,commute time mins = 92; job satisfaction = 6; avg sleep hours per day = 6.05
+10264,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; social time hours = 0.56
+13499,Low Risk,1.0,0.0,0.0,family time hours = 1.87; social time hours = 0.74; avg rest hours per day = 4.17
+11367,Medium Risk,0.0,1.0,0.0,commute time mins = 77; mental health score = 6; avg exercise hours per day = 0.22
+13826,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; avg work hours per day = 10.48
+12822,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 9; mental health score = 2
+11677,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 11.37; job satisfaction = 6
+14823,High Risk,0.0,0.0,1.0,avg work hours per day = 13.79; family time hours = 0.73; avg rest hours per day = 2.48
+19838,High Risk,0.0,0.0,1.0,job satisfaction = 2; stress level = 10; avg work hours per day = 13.59
+18233,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.76; avg sleep hours per day = 5.81
+14567,High Risk,0.0,0.0,1.0,avg work hours per day = 13.01; job satisfaction = 4; stress level = 7
+12196,High Risk,0.0,0.0,1.0,avg work hours per day = 11.55; job satisfaction = 5; mental health score = 6
+13687,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.34
+15895,Medium Risk,0.007,0.993,0.0,family time hours = 1.92; social time hours = 0.67; avg rest hours per day = 5.21
+11312,Low Risk,1.0,0.0,0.0,no single dominant driver
+11899,High Risk,0.0,0.0,1.0,avg work hours per day = 12.04; avg sleep hours per day = 5.15; stress level = 6
+14621,Low Risk,1.0,0.0,0.0,commute time mins = 78; social time hours = 0.57
+12189,Medium Risk,0.0,0.937,0.063,stress level = 6; mental health score = 5; job satisfaction = 6
+18136,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; mental health score = 6; commute time mins = 67
+15237,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.09; stress level = 6; physical health score = 5
+17995,Low Risk,1.0,0.0,0.0,no single dominant driver
+16643,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 53
+17258,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.38; commute time mins = 53; avg exercise hours per day = 0.11
+19675,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.04; job satisfaction = 6; avg sleep hours per day = 6.56
+10271,Medium Risk,0.0,1.0,0.0,stress level = 6; commute time mins = 51; avg exercise hours per day = 0.23
+12625,Low Risk,1.0,0.0,0.0,physical health score = 5; avg sleep hours per day = 6.57
+18876,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; avg sleep hours per day = 6.07
+19043,High Risk,0.0,0.0,1.0,stress level = 8; mental health score = 5; avg work hours per day = 10.57
+15474,Low Risk,0.998,0.002,0.0,no single dominant driver
+14128,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.88; mental health score = 6; avg exercise hours per day = 0.07
+16549,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.88; physical health score = 5; family time hours = 1.82
+13981,Low Risk,1.0,0.0,0.0,commute time mins = 63
+16418,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.41; physical health score = 5; avg exercise hours per day = 0.2
+12536,Low Risk,1.0,0.0,0.0,commute time mins = 54; social time hours = 0.75
+11350,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.33; mental health score = 6
+19736,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 6
+10471,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.66; physical health score = 5; social time hours = 0.8
+12913,Low Risk,1.0,0.0,0.0,commute time mins = 49; avg exercise hours per day = 0.07
+18204,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.38; job satisfaction = 6; social time hours = 0.67
+16018,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.22; stress level = 6
+10946,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.5; social time hours = 0.63; avg exercise hours per day = 0.01
+14758,Low Risk,1.0,0.0,0.0,commute time mins = 47
+19290,Medium Risk,0.0,1.0,0.0,social time hours = 0.69; avg exercise hours per day = 0.13
+10650,Medium Risk,0.0,1.0,0.0,mental health score = 6
+14263,Medium Risk,0.0,0.998,0.002,stress level = 6; commute time mins = 76; job satisfaction = 6
+12461,High Risk,0.0,0.0,1.0,avg work hours per day = 11.23; mental health score = 5; job satisfaction = 6
+17335,Medium Risk,0.29,0.71,0.0,mental health score = 5; avg sleep hours per day = 5.65
+14335,Low Risk,0.999,0.001,0.0,social time hours = 0.69
+13517,Low Risk,1.0,0.0,0.0,family time hours = 2.2
+17076,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.26; physical health score = 5
+14165,Low Risk,1.0,0.0,0.0,family time hours = 2.05; avg rest hours per day = 5.34
+15476,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.04; commute time mins = 60; avg exercise hours per day = 0.33
+17239,High Risk,0.0,0.0,1.0,stress level = 6; avg work hours per day = 10.67; job satisfaction = 6
+10976,Medium Risk,0.0,1.0,0.0,family time hours = 1.28; social time hours = 0.64; avg rest hours per day = 3.93
+13443,Low Risk,1.0,0.0,0.0,family time hours = 1.52; avg rest hours per day = 5.1
+19601,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; avg sleep hours per day = 5.71; physical health score = 5
+12396,Low Risk,1.0,0.0,0.0,social time hours = 0.42; avg rest hours per day = 5.04
+19065,Medium Risk,0.0,1.0,0.0,stress level = 6; avg work hours per day = 10.55; avg sleep hours per day = 6.56
+13019,Low Risk,1.0,0.0,0.0,social time hours = 0.66
+14538,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.12
+15565,Medium Risk,0.0,1.0,0.0,stress level = 7; avg exercise hours per day = 0.26
+13525,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.17; physical health score = 5; social time hours = 0.79
+12529,High Risk,0.0,0.0,1.0,job satisfaction = 5; stress level = 6; mental health score = 5
+10700,Low Risk,1.0,0.0,0.0,commute time mins = 61; avg exercise hours per day = 0.17
+16986,High Risk,0.0,0.0,1.0,job satisfaction = 5; avg work hours per day = 11.26; avg sleep hours per day = 6.32
+11438,Low Risk,1.0,0.0,0.0,physical health score = 4
+18617,Low Risk,1.0,0.0,0.0,no single dominant driver
+17236,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; avg work hours per day = 10.25
+15706,Low Risk,1.0,0.0,0.0,no single dominant driver
+16246,Medium Risk,0.0,1.0,0.0,stress level = 6; job satisfaction = 6; mental health score = 6
+17385,Medium Risk,0.0,1.0,0.0,avg work hours per day = 11.04; commute time mins = 64; family time hours = 1.7
+14382,Low Risk,1.0,0.0,0.0,job satisfaction = 6
+12944,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.45; commute time mins = 52; family time hours = 1.82
+14027,Medium Risk,0.007,0.993,0.0,job satisfaction = 5; avg sleep hours per day = 5.87; physical health score = 5
+15934,Low Risk,1.0,0.0,0.0,no single dominant driver
+19249,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.97; avg sleep hours per day = 5.89; physical health score = 5
+12635,Low Risk,1.0,0.0,0.0,no single dominant driver
+17590,Low Risk,1.0,0.0,0.0,no single dominant driver
+15188,Low Risk,1.0,0.0,0.0,social time hours = 0.59; avg rest hours per day = 4.36
+17724,Medium Risk,0.0,1.0,0.0,mental health score = 6; social time hours = 0.47
+18568,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.32; commute time mins = 63; avg exercise hours per day = 0.03
+19683,Medium Risk,0.0,1.0,0.0,commute time mins = 56; social time hours = 0.71; avg rest hours per day = 5.31
+19809,High Risk,0.0,0.06,0.94,stress level = 6; job satisfaction = 6; mental health score = 6
+17246,Low Risk,0.638,0.362,0.0,job satisfaction = 6; physical health score = 5; avg exercise hours per day = 0
+11127,Low Risk,1.0,0.0,0.0,commute time mins = 49; social time hours = 0.68; avg rest hours per day = 5.39
+13473,Low Risk,1.0,0.0,0.0,physical health score = 4; social time hours = 0.58; avg exercise hours per day = 0.26
+12687,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.92
+18053,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.49; avg sleep hours per day = 5.92; avg exercise hours per day = 0.19
+14535,Low Risk,1.0,0.0,0.0,social time hours = 0.73
+12415,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; commute time mins = 54; family time hours = 1.61
+14219,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.19; social time hours = 0.44
+13977,High Risk,0.0,0.0,1.0,job satisfaction = 3; stress level = 7; mental health score = 5
+19550,Medium Risk,0.0,1.0,0.0,physical health score = 3; avg sleep hours per day = 6.55
+11580,Low Risk,1.0,0.0,0.0,no single dominant driver
+11487,Low Risk,0.983,0.017,0.0,commute time mins = 51; social time hours = 0.63; avg exercise hours per day = 0.28
+18816,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 5; mental health score = 4
+19633,Medium Risk,0.002,0.998,0.0,commute time mins = 52; social time hours = 0.74
+16983,High Risk,0.0,0.0,1.0,stress level = 6; mental health score = 5; job satisfaction = 6
+17455,Low Risk,1.0,0.0,0.0,commute time mins = 55; physical health score = 5; social time hours = 0.69
+18241,High Risk,0.0,0.0,1.0,mental health score = 3; stress level = 6; job satisfaction = 6
+16568,Low Risk,1.0,0.0,0.0,avg work hours per day = 11.18; family time hours = 1.15; social time hours = 0.5
+12723,Low Risk,1.0,0.0,0.0,physical health score = 4; avg sleep hours per day = 6.56; avg exercise hours per day = 0.04
+17658,High Risk,0.0,0.0,1.0,stress level = 8; job satisfaction = 4; avg work hours per day = 11.68
+15679,High Risk,0.0,0.0,1.0,stress level = 7; avg sleep hours per day = 5.11; avg work hours per day = 10.69
+19143,Low Risk,1.0,0.0,0.0,commute time mins = 66; avg sleep hours per day = 6.47
+11637,Medium Risk,0.0,1.0,0.0,mental health score = 6
+15606,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.02
+18978,Low Risk,1.0,0.0,0.0,family time hours = 1.19; commute time mins = 55; social time hours = 0.72
+15672,Low Risk,1.0,0.0,0.0,family time hours = 1.03; social time hours = 0.43; avg rest hours per day = 2.07
+14309,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 5.95; physical health score = 5
+18778,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.31
+18304,High Risk,0.0,0.0,1.0,avg work hours per day = 13.02; family time hours = 0.27; commute time mins = 65
+19518,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.26
+18226,Low Risk,1.0,0.0,0.0,no single dominant driver
+19600,Medium Risk,0.0,1.0,0.0,mental health score = 6; avg sleep hours per day = 6.45; physical health score = 5
+18586,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.66; commute time mins = 86; family time hours = 1.76
+12759,High Risk,0.0,0.094,0.906,avg work hours per day = 11.22; stress level = 6; job satisfaction = 6
+17045,High Risk,0.0,0.035,0.965,job satisfaction = 5; stress level = 6; avg work hours per day = 10.4
+16666,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.83; stress level = 6
+14683,High Risk,0.0,0.0,1.0,avg work hours per day = 11.72; stress level = 7; job satisfaction = 5
+12679,High Risk,0.0,0.0,1.0,stress level = 7; avg work hours per day = 10.95; mental health score = 5
+14825,Low Risk,1.0,0.0,0.0,commute time mins = 58
+13884,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; commute time mins = 102
+14597,Low Risk,1.0,0.0,0.0,job satisfaction = 6; physical health score = 5
+10056,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 10.81; social time hours = 0.79
+18929,Low Risk,1.0,0.0,0.0,family time hours = 2.05; avg exercise hours per day = 0.1
+11425,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.22
+16599,Low Risk,1.0,0.0,0.0,no single dominant driver
+18486,Low Risk,1.0,0.0,0.0,commute time mins = 61
+18589,Medium Risk,0.0,1.0,0.0,job satisfaction = 6; avg sleep hours per day = 6.31
+16201,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.71; social time hours = 0.73
+16721,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.34; job satisfaction = 6; mental health score = 6
+11275,Medium Risk,0.0,0.97,0.03,stress level = 6; mental health score = 5; avg sleep hours per day = 6.08
+19423,Low Risk,1.0,0.0,0.0,family time hours = 2.07
+13662,Low Risk,1.0,0.0,0.0,no single dominant driver
+14472,Low Risk,1.0,0.0,0.0,no single dominant driver
+17576,High Risk,0.0,0.0,1.0,avg work hours per day = 12.86; job satisfaction = 5; family time hours = 1.14
+19090,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.92; job satisfaction = 6; social time hours = 0.5
+14316,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 6.09
+15012,Low Risk,1.0,0.0,0.0,no single dominant driver
+14189,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.94; job satisfaction = 6; family time hours = 1.23
+16019,Low Risk,1.0,0.0,0.0,no single dominant driver
+13299,Medium Risk,0.0,1.0,0.0,commute time mins = 53; avg rest hours per day = 5.23
+16457,Low Risk,1.0,0.0,0.0,no single dominant driver
+15724,Medium Risk,0.0,1.0,0.0,stress level = 6; physical health score = 5; social time hours = 0.67
+15330,Medium Risk,0.0,1.0,0.0,social time hours = 0.69
+10195,Low Risk,1.0,0.0,0.0,no single dominant driver
+11253,Medium Risk,0.0,1.0,0.0,family time hours = 1.73; commute time mins = 47; social time hours = 0.77
+10114,Low Risk,1.0,0.0,0.0,avg work hours per day = 10.6; avg sleep hours per day = 6.58; avg exercise hours per day = 0
+10530,Medium Risk,0.0,1.0,0.0,no single dominant driver
+11622,Low Risk,1.0,0.0,0.0,no single dominant driver
+14156,Low Risk,1.0,0.0,0.0,commute time mins = 57; social time hours = 0.83
+16217,Low Risk,1.0,0.0,0.0,no single dominant driver
+18828,Low Risk,1.0,0.0,0.0,social time hours = 0.84; avg exercise hours per day = 0.18
+11772,Low Risk,0.747,0.253,0.0,job satisfaction = 5; physical health score = 5; avg exercise hours per day = 0.31
+16271,High Risk,0.0,0.0,1.0,job satisfaction = 4; stress level = 7; mental health score = 5
+10537,High Risk,0.0,0.0,1.0,stress level = 7; mental health score = 4; avg work hours per day = 10.58
+11816,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.49; physical health score = 4; avg sleep hours per day = 6.26
+13104,High Risk,0.0,0.0,1.0,avg work hours per day = 12.26; stress level = 7; mental health score = 4
+16728,High Risk,0.0,0.0,1.0,avg work hours per day = 10.73; stress level = 6; job satisfaction = 6
+14042,High Risk,0.0,0.0,1.0,avg work hours per day = 11.6; stress level = 6; commute time mins = 76
+19120,Low Risk,1.0,0.0,0.0,no single dominant driver
+15633,Low Risk,1.0,0.0,0.0,no single dominant driver
+16117,Medium Risk,0.0,1.0,0.0,avg work hours per day = 10.96; stress level = 6; family time hours = 1.03
+17817,Medium Risk,0.0,1.0,0.0,commute time mins = 70; avg exercise hours per day = 0.08
+18730,High Risk,0.0,0.0,1.0,avg work hours per day = 12.49; job satisfaction = 6; commute time mins = 74
+16050,High Risk,0.0,0.0,1.0,job satisfaction = 5; mental health score = 5
+11714,Low Risk,1.0,0.0,0.0,commute time mins = 52
+15825,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.15; social time hours = 0.74
+16725,Low Risk,1.0,0.0,0.0,commute time mins = 55; avg rest hours per day = 5.15
+13941,Low Risk,1.0,0.0,0.0,no single dominant driver
+19732,Medium Risk,0.0,1.0,0.0,job satisfaction = 5; mental health score = 6; commute time mins = 66
+16583,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.32; social time hours = 0.79
+13071,High Risk,0.0,0.0,1.0,avg work hours per day = 11.45; stress level = 6; avg sleep hours per day = 5.73
+19945,Low Risk,1.0,0.0,0.0,social time hours = 0.8
+15040,High Risk,0.0,0.0,1.0,avg work hours per day = 11.9; mental health score = 5; job satisfaction = 6
+14467,High Risk,0.0,0.0,1.0,avg work hours per day = 10.84; stress level = 6; job satisfaction = 6
+18473,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.93; family time hours = 1.93
+16680,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 5.96
+12025,Medium Risk,0.0,1.0,0.0,avg sleep hours per day = 5.78
+14832,High Risk,0.0,0.0,1.0,mental health score = 3; job satisfaction = 5; avg work hours per day = 11.1
+12303,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 11.83; stress level = 7
+14511,Medium Risk,0.0,0.987,0.013,mental health score = 5; job satisfaction = 6; physical health score = 4
+18472,Low Risk,1.0,0.0,0.0,commute time mins = 54
+13801,Low Risk,1.0,0.0,0.0,family time hours = 2.17; avg exercise hours per day = 0.22
+16707,High Risk,0.0,0.0,1.0,stress level = 7; job satisfaction = 5; mental health score = 5
+19075,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 11.64; mental health score = 5
+17674,Low Risk,1.0,0.0,0.0,avg sleep hours per day = 6.46
+16539,Low Risk,1.0,0.0,0.0,physical health score = 5
+17481,Low Risk,1.0,0.0,0.0,avg rest hours per day = 4.88
+11074,Low Risk,1.0,0.0,0.0,stress level = 6; commute time mins = 47
+19513,Low Risk,1.0,0.0,0.0,physical health score = 5
+10609,High Risk,0.0,0.0,1.0,job satisfaction = 4; avg work hours per day = 12.53; mental health score = 5
+13987,Low Risk,1.0,0.0,0.0,avg exercise hours per day = 0.24
+13744,Low Risk,1.0,0.0,0.0,family time hours = 1.54; avg rest hours per day = 4.9; avg exercise hours per day = 0.32
+19533,Medium Risk,0.0,1.0,0.0,commute time mins = 87; job satisfaction = 6
+16435,High Risk,0.0,0.0,1.0,stress level = 8; avg work hours per day = 12.21; mental health score = 5
+11567,Medium Risk,0.0,1.0,0.0,commute time mins = 59; social time hours = 0.6; avg rest hours per day = 5.21
+13961,High Risk,0.0,0.0,1.0,avg work hours per day = 14; job satisfaction = 5; family time hours = 0.46
+13736,Low Risk,1.0,0.0,0.0,no single dominant driver
